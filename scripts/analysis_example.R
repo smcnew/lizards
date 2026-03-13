@@ -146,3 +146,43 @@ summary(fit2)
 # Both ploidy and date do not have significant effects (in this pretend data)
 
 
+
+# Species richness  -------------------------------------------------------
+# Let's also simulate some data so we could analyze species richness if we wanted
+# Lazy so will not make an effect.
+#
+# One problem jumps out: We have pretty significant variation in sample size
+# among lizard species. The more samples we get, the more parasites we'll detect (naturally).
+head(samples)
+
+
+haplotypes <- c("a","b","c","d","e","f","g","h","i")
+samples <- samples %>%
+  mutate(haplotype = sample(haplotypes, size = nrow(samples),  replace = T)) %>%
+  mutate(haplotype = ifelse(pos == 0, NA, haplotype))
+
+
+# inspect haplotype x species combos
+
+table(samples$species, samples$haplotype)
+
+
+# Calculate species richness (lots of different ways to code this, consider dplyr solutions)
+
+aggregate(haplotype ~ species, data = samples, unique) # this shows us all haplotypes x species
+
+richness <- aggregate(haplotype ~ species, data = samples, FUN = function (x) length(unique(x)))
+
+# add this info back onto sexual system table
+sexual_system <- left_join(sexual_system, richness)
+
+
+# Quick and dirty: neg binomial glm with extractions as a covar
+MASS::glm.nb(haplotype ~ reproduction + extractions, data = sexual_system) %>% summary
+
+# quasipois should do something similar
+glm(haplotype ~ reproduction + extractions, family = "quasipoisson", data = sexual_system) %>% summary # v. similar.
+
+
+
+
