@@ -125,7 +125,7 @@ plot(fit) # Diagnostic plots see https://michael-franke.github.io/Bayesian-Regre
 pairs(fit) # shouldn't be any visible patterns here. Not perfect, but basically fine.
 
 # If we want to add species as another random effect, create a separate column with same identity as species
-# We can also add some more covars if we want.
+# We can also add some more covars if we want (latitude? ploidy? etc.)
 
 samples$species2 <- samples$species
 
@@ -153,6 +153,10 @@ summary(fit2)
 #
 # One problem jumps out: We have pretty significant variation in sample size
 # among lizard species. The more samples we get, the more parasites we'll detect (naturally).
+#
+#
+# Potential covars to include? probably midpoint of latitude or something like that.
+#
 head(samples)
 
 
