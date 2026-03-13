@@ -1,0 +1,68 @@
+"","Field Number","Species","Country","State","County","locality","latitude","longitude","GPS uncertainty","Date","sex","SVL (mm)","notes"
+"1","RCT 901","Aspidoscelis tigris punctilineatus","USA","Arizona","Pima","vicinity of Ajo",32.3828,-112.78028,"3 m",2019-06-03,"Male",94,NA
+"2","RCT 902","Aspidoscelis tigris punctilineatus","USA","Arizona","Pima","vicinity of Ajo",32.38388,-112.78144,"3 m",2019-06-03,"Male",94,NA
+"3","RCT 903","Aspidoscelis tigris punctilineatus","USA","Arizona","Pima","Sabino Canyon",32.3101,-110.81131,"3 m",2019-06-03,"Male",86,NA
+"4","RCT 904","Aspidoscelis sonorae","USA","Arizona","Pima","Sabino Canyon",32.30482,-110.81111,"3 m",2019-06-04,"Female",83,NA
+"5","RCT 905","Aspidoscelis sonorae","USA","Arizona","Pima","Sabino Canyon",32.30851,-110.81078,"3 m",2019-06-04,"Female",72,NA
+"6","RCT 906","Aspidoscelis sonorae","USA","Arizona","Pima","Sabino Canyon",32.30848,-110.81078,"4 m",2019-06-04,"Female",85,NA
+"7","RCT 907","Aspidoscelis sonorae","USA","Arizona","Pima","Sabino Canyon",32.30795,-110.81055,"3 m",2019-06-04,"Female",82,NA
+"8","RCT 908","Aspidoscelis sonorae","USA","Arizona","Pima","Sabino Canyon",32.30909,-110.81114,"3 m",2019-06-04,"Female",69,NA
+"9","RCT 909","Aspidoscelis sonorae","USA","Arizona","Santa Cruz","Upper White Rock Campground",31.39362,-111.0094,"3 m",2019-06-05,"Female",92,NA
+"10","RCT 910","Aspidoscelis sonorae","USA","Arizona","Santa Cruz","Upper White Rock Campground",31.39525,-111.0905,"3 m",2019-06-05,"Female",75,NA
+"11","RCT 911","Aspidoscelis sonorae","USA","Arizona","Santa Cruz","Upper White Rock Campground",31.39537,-111.0952,"3 m",2019-06-05,"Female",NA,NA
+"12","RCT 912","Aspidoscelis sonorae","USA","Arizona","Santa Cruz","Upper White Rock Campground",31.39585,-111.09052,"3 m",2019-06-05,"Female",NA,NA
+"13","RCT 913","Aspidoscelis sonorae","USA","Arizona","Santa Cruz","Upper White Rock Campground",31.39543,-111.09053,"3 m",2019-06-05,"Female",NA,NA
+"14","RCT 914","Aspidoscelis sonorae","USA","Arizona","Santa Cruz","Peña Blanca Lake",31.40037,-111.08885,"4 m",2019-06-05,"Female",NA,NA
+"15","RCT 915","Aspidoscelis sonorae","USA","Arizona","Santa Cruz","Peña Blanca Lake",31.40047,-111.08857,"4 m",2019-06-05,"Female",NA,NA
+"16","RCT 916","Aspidoscelis sonorae","USA","Arizona","Santa Cruz","Peña Blanca Lake",31.40033,-111.0901,"4 m",2019-06-05,"Female",NA,NA
+"17","RCT 917","Aspidoscelis sp","USA","Arizona","Santa Cruz","Peña Blanca Lake",31.40033,-111.0901,NA,2019-06-05,NA,NA,"tail only"
+"18","RCT 918","Aspidoscelis uniparens","USA","Arizona","Cochise","Near Portal, Chiricahua Mountains",31.92972,-109.13041,NA,2019-06-06,"Female",NA,NA
+"19","RCT 919","Aspidoscelis uniparens","USA","Arizona","Cochise","Near Portal, Chiricahua Mountains",31.92972,-109.13041,NA,2019-06-06,"Female",NA,NA
+"20","RCT 920","Aspidoscelis uniparens","USA","Arizona","Cochise","Near Portal, Chiricahua Mountains",31.93056,-109.13015,"3 m",2019-06-06,"Female",NA,NA
+"21","RCT 921","Aspidoscelis uniparens","USA","Arizona","Cochise","Near Portal, Chiricahua Mountains",31.93023,109.13021,"3 m",2019-06-06,"Female",NA,NA
+"22","RCT 922","Aspidoscelis exsanguis","USA","Arizona","Cochise","Cave Creek Canyon, Chiricahua Mountains",31.88987,-109.16909,"3 m",2019-06-06,"Female",NA,NA
+"23","RCT 923","Aspidoscelis uniparens","USA","Arizona","Cochise","Cave Creek Canyon, Chiricahua Mountains",31.88909,-109.17032,"3 m",2019-06-06,"Female",NA,NA
+"24","RCT 924","Aspidoscelis sonorae","USA","Arizona","Cochise","Cave Creek Canyon, Chiricahua Mountains",31.88408,-109.178,"3 m",2019-06-06,"Female",NA,NA
+"25","RCT 925","Aspidoscelis marmoratus","USA","New Mexico","Sierra","Between Engle and Jornada",33.11802,-107.03244,NA,2019-06-08,"Female",NA,NA
+"26","RCT 926","Aspidoscelis marmoratus","USA","New Mexico","Sierra","Between Engle and Jornada",33.11848,-107.033,NA,2019-06-08,"Male",NA,NA
+"27","RCT 927","Aspidoscelis marmoratus","USA","New Mexico","Sierra","Between Engle and Jornada",33.12029,-107.03346,NA,2019-06-08,"Female",NA,NA
+"28","RCT 928","Aspidoscelis tesselatus","USA","New Mexico","Sierra","Between Engle and Jornada",33.12078,-107.03346,NA,2019-06-08,"Female",NA,NA
+"29","RCT 929","Aspidoscelis tesselatus","USA","New Mexico","Sierra","Between Engle and Jornada",33.1184,-107.03386,NA,2019-06-08,"Female",NA,NA
+"30","RCT 930","Aspidoscelis tesselatus","USA","New Mexico","Sierra","Between Engle and Jornada",33.11945,-107.03383,NA,2019-06-08,"Female",NA,NA
+"31","RCT 931","Aspidoscelis inornatus","USA","New Mexico","Sierra","Between Engle and Jornada",33.11934,-107.03375,NA,2019-06-08,"Female",NA,NA
+"32","RCT 932","Aspidoscelis inornatus","USA","New Mexico","Sierra","Between Engle and Jornada",33.11926,-107.03379,NA,2019-06-08,"Male",NA,NA
+"33","RCT 933","Aspidoscelis tesselatus","USA","New Mexico","Sierra","East of Engle",33.17869,-107.01077,NA,2019-06-08,"Female",NA,NA
+"34","RCT 934","Aspidoscelis marmoratus","USA","New Mexico","Sierra","East of Engle",31.12078,-107.03396,NA,2019-06-08,"Female",NA,NA
+"35","RCT 935","Aspidoscelis marmoratus","USA","New Mexico","Sierra","East of Engle",33.17846,-107.0095,NA,2019-06-08,"Female",NA,"tissued 8 hours after death"
+"36","RCT 936","Aspidoscelis marmoratus","USA","New Mexico","Sierra","East of Engle",33.17991,-107.00915,NA,2019-06-08,"Female",NA,NA
+"37","RCT 937","Aspidoscelis marmoratus","USA","New Mexico","Sierra","East of Engle",33.17797,-107.00936,NA,2019-06-08,"Female",NA,NA
+"38","RCT 938","Aspidoscelis marmoratus","USA","New Mexico","Sierra","East of Engle",33.17913,-107.01115,NA,2019-06-08,"Female",NA,NA
+"39","RCT 939","Aspidoscelis inornatus","USA","New Mexico","Sierra","East of Engle",33.17851,-107.00915,NA,2019-06-08,"Female",NA,NA
+"40","RCT 940","Aspidoscelis inornatus","USA","New Mexico","Sierra","East of Engle",33.1789,-107.00874,NA,2019-06-08,NA,NA,NA
+"41","RCT 941","Aspidoscelis inornatus","USA","New Mexico","Sierra","East of Engle",33.17954,-107.00952,NA,2019-06-08,"Male",NA,NA
+"42","RCT 942","Aspidoscelis inornatus","USA","New Mexico","Sierra","East of Engle",33.17852,-107.00915,NA,2019-06-08,"Female",NA,NA
+"43","RCT 943","Aspidoscelis inornatus","USA","New Mexico","Sierra","East of Engle",33.17862,-107.00816,NA,2019-06-08,"Male",NA,NA
+"44","RCT 944","Aspidoscelis inornatus","USA","New Mexico","Sierra","East of Engle",33.17862,-107.00816,NA,2019-06-08,"Male",NA,NA
+"45","RCT 945","Aspidoscelis inornatus","USA","New Mexico","Sierra","East of Engle",33.17862,-107.00816,NA,2019-06-08,"Male",NA,NA
+"46","RCT 946","Aspidoscelis inornatus","USA","New Mexico","Sierra","East of Engle",33.179878,-107.00903,NA,2019-06-08,"Male",NA,NA
+"47","RCT 947","Aspidoscelis neomexicanus","USA","New Mexico","Socorro","near Socorro",34.11867,-106.88585,NA,2019-06-09,"Female",NA,NA
+"48","RCT 948","Aspidoscelis uniparens","USA","New Mexico","Socorro","near Socorro",34.11929,-106.88612,NA,2019-06-09,"Female",NA,NA
+"49","RCT 949","Aspidoscelis uniparens","USA","New Mexico","Socorro","near Socorro",34.11929,-106.8816,NA,2019-06-09,"Female",NA,NA
+"50","RCT 950","Aspidoscelis uniparens","USA","New Mexico","Socorro","near Socorro",34.11878,-106.88594,NA,2019-06-09,"Female",NA,NA
+"51","RCT 951","Aspidoscelis uniparens","USA","New Mexico","Socorro","near Socorro",34.11902,-106.88611,NA,2019-06-09,"Female",NA,NA
+"52","RCT 952","Aspidoscelis uniparens","USA","New Mexico","Socorro","near Socorro",34.11964,-106.88636,NA,2019-06-09,"Female",NA,NA
+"53","RCT 953","Uta stansburiana","USA","New Mexico","Socorro","near Socorro",34.11873,-106.88602,NA,2019-06-09,"Male",NA,NA
+"54","RCT 954","Aspidoscelis marmoratus","USA","New Mexico","Socorro","near old Carthage site",33.88683,-106.68713,NA,2019-06-09,"Female",NA,NA
+"55","RCT 955","Aspidoscelis tesselatus","USA","New Mexico","Socorro","near old Carthage site",33.88758,-106.68713,NA,2019-06-09,"Female",NA,NA
+"56","RCT 956","Gambelia wislizennii","USA","New Mexico","Socorro","near old Carthage site",33.88758,-106.68259,NA,2019-06-09,"Male",NA,NA
+"57","RCT 957","Aspidoscelis inornatus","USA","New Mexico","Socorro","near old Carthage site",33.88744,-106.68354,NA,2019-06-09,"Female",NA,NA
+"58","RCT 958","Aspidoscelis inornatus","USA","New Mexico","Socorro","near old Carthage site",33.88693,-106.68682,NA,2019-06-09,"Female",NA,NA
+"59","RCT 959","Aspidoscelis inornatus","USA","New Mexico","Socorro","near old Carthage site",33.88682,-106.68832,NA,2019-06-09,"Male",NA,NA
+"60","RCT 960","Aspidoscelis exsanguis","USA","New Mexico","Bernalillo","Gutierrez Canyon Open Space",35.12399,-106.33823,NA,2019-06-10,"Female",NA,NA
+"61","RCT 961","Aspidoscelis velox","USA","New Mexico","McKinley","vicinity of Coolidge",35.47186,-108.43772,NA,2019-06-10,"Female",NA,NA
+"62","RCT 962","Aspidoscelis velox","USA","Arizona","Coconino","vicinity of Flagstaff",35.26706,-111.3801,"3 m",2019-06-11,"Female",NA,NA
+"63","RCT 963","Aspidoscelis velox","USA","Arizona","Coconino","vicinity of Flagstaff",35.45615,-111.5598,"5 m",2019-06-11,"Female",NA,NA
+"64","RCT 964","Aspidoscelis pai","USA","Arizona","Gila","El Oso Road, Above Roosevelt Lake",33.73814,-111.33776,"3 m",2019-06-12,"Female",NA,NA
+"65","RCT 965","Aspidoscelis pai","USA","Arizona","Gila","El Oso Road, Above Roosevelt Lake",33.73511,-111.33888,"4 m",2019-06-12,NA,NA,"tail only"
+"66","RCT 966","Aspidoscelis sonorae","USA","Arizona","Gila","El Oso Road, Above Roosevelt Lake",33.72657,-111.34412,"7 m",2019-06-12,"Female",NA,NA
+"67","RCT 967","Aspidoscelis sonorae","USA","Arizona","Gila","El Oso Road, Above Roosevelt Lake",33.73112,-111.34505,"3 m",2019-06-12,"Female",NA,NA

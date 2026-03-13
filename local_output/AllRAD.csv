@@ -1,0 +1,893 @@
+"","Grupo","Museum Number","# colector","Especie","Subespecie","Type loc","Estado","Localidad","Latitud","Longitud","Elevación","Sexo","Edad","Photo","Library","Platform","RAD protocol","Comentarios"
+"1","sexlineatus",NA,"ANMO 4398","alpinus",NA,"x",NA,"Laguna de Alchichica, alrededores","19.404409999999999","97.403599999999997","2365",NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"2","sexlineatus",NA,"ANMO 1845","angusticeps","angusticeps",NA,"Campeche","Pomuch","20.138527777777778","-90.185250000000011","2",NA,NA,"88","RTAB003A","HiSeq 2500","AJB",NA
+"3","sexlineatus",NA,"ANMO 1846","angusticeps","angusticeps",NA,"Campeche","Pomuch","20.138527777777778","-90.185250000000011","2",NA,NA,"UH1","RTAB003A","HiSeq 2500","AJB",NA
+"4","sexlineatus",NA,"AER 008","angusticeps",NA,NA,NA,NA,"18.363055555555558","-90.852499999999992",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"5","sexlineatus",NA,"AER 010","angusticeps",NA,NA,"Campeche","Chekubul","18.820277777777779","-91.009166666666673",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"6","sexlineatus",NA,"AER 012","angusticeps",NA,NA,"Campeche","Constitución","18.624444444444446","-90.130555555555546",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"7","sexlineatus",NA,"AER 042","angusticeps",NA,NA,"Campeche","Xpujil","18.508388888888888","-89.399694444444449",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"8","sexlineatus",NA,"AER 043","angusticeps",NA,NA,NA,NA,"18.508583333333334","-89.399694444444449",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"9","sexlineatus",NA,"LDOR 057","angusticeps",NA,NA,"Quintana Roo","El Ideal","20.880027777777777","-87.546138888888891",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"10","sexlineatus",NA,"NLMM 380","angusticeps",NA,NA,"Campeche","Hampolol","19.916166666666665","-90.376388888888883",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"11","sexlineatus",NA,"NLMM 384","angusticeps",NA,NA,"Quintana Roo","Carr. Chetumal-Bacalar","18.52761111111111","-88.37855555555555",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"12","sexlineatus",NA,"NLMM 480","angusticeps",NA,NA,NA,NA,"18.600305555555558","-90.701694444444442",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"13","sexlineatus",NA,"SFDG 120","angusticeps",NA,NA,"Yucatan","Motul","21.093722222222222","-89.30105555555555",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"14","sexlineatus",NA,"SFDG 162","angusticeps",NA,NA,"Quintana Roo","Bacalar","18.690111111111111","-88.40280555555556",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"15","sexlineatus",NA,"SFDG 167","angusticeps",NA,NA,"Quintana Roo","Felipe Carrillo Puerto","19.586027777777776","-88.027027777777775",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"16","sexlineatus",NA,"SFDG 179","angusticeps",NA,NA,NA,NA,"20.280277777777776","-89.399416666666667",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"17","sexlineatus",NA,"SFDG 362","angusticeps",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"18","sexlineatus","LACM 134404","TC 357","angusticeps",NA,NA,"Yucatan","ca 8 km E Los Colorados","21.066669999999998","-87.916669999999996",NA,NA,NA,"PC 835","RTAB2018A","HiSeq 4000","AJB",NA
+"19",NA,NA,"AER22","angusticeps",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"20",NA,NA,"ANMO 4948","arizonae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"21","sexlineatus",NA,"ANMO 4505","badlands",NA,NA,"Oaxaca","Orilla sur de Santiago Yolomécatl","17.458909999999999","-97.573580000000007","2119",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"22","sexlineatus",NA,"ANMO 4506","badlands",NA,NA,"Oaxaca","Orilla sur de Santiago Yolomécatl","17.458909999999999","-97.573580000000007",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"23","sexlineatus",NA,"ANMO 3767","burti","burti",NA,"Sonora","Microondas el Vigia, Guaymas","27.953720000000001","-110.89934","233",NA,"Jóven","81","RTAB003A","HiSeq 2500","AJB",NA
+"24","sexlineatus",NA,"UOGV 2567","burti","burti","√","Sonora","Sierra del Aguaje, Cañon del Nacapule","28.01567","-111.04944999999999","121","Macho","Adulto","82","RTAB003A","HiSeq 2500","AJB",NA
+"25","sexlineatus",NA,"AMNH 113886","burti","stictogrammus",NA,"Sonora","15.4 mi (by Mex Hwy 2) ENE Imuris",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"26","sexlineatus",NA,"AQM 2","burti",NA,NA,"Sonora","El Colorado y Las Cadenas","28.295373000000001","-111.4285",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"27","sexlineatus","OMNH 43107","OCGR 6243","burti",NA,NA,"Arizona","149 ft north of Muleshoe Ranch Preserve Headquarters","32.202379999999998","-110.14319",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"28","sexlineatus","OMNH 43630","OCGR 8439","burti",NA,NA,"Arizona","1.8 mi E of Bar Boot Entrance in Box Canyon","31.639589999999998","-109.44412",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"29","sexlineatus",NA,"ANMO 1075","calidipes",NA,NA,"Michoacán","Las Cañas, sobre carr libre Nueva Italia--Lázaro Cárdenas","18.554944444444445","-101.97044444444445","368","Hembra","Jóven",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"30","sexlineatus",NA,"ANMO 1076","calidipes",NA,NA,"Michoacán","Las Cañas, sobre carr libre Nueva Italia--Lázaro Cárdenas","18.554944444444445","-101.97044444444445","368",NA,NA,"3","RTAB003A","HiSeq 2500","AJB",NA
+"31","sexlineatus",NA,"ANMO 3084","calidipes",NA,NA,"Michoacán","Camino de Huetamo a San Jerónimo","18.542777777777779","-101.26991666666666","214",NA,NA,"2","RTAB003A","HiSeq 2500","AJB",NA
+"32","sexlineatus",NA,"ANMO 3092","calidipes",NA,NA,"Michoacán","Alrededores de San Jerónimo; salida del pueblo hacia Churumuco","18.532638888888886","-101.33202777777777","198",NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"33","sexlineatus",NA,"UOGV 1528","calidipes",NA,"√","Michoacán","Carr. Nueva Italia-Arteaga, Puente Capirio","18.853222222222225","-102.14205555555556","171",NA,NA,"1","RTAB003A","HiSeq 2500","AJB",NA
+"34","deppii",NA,"LACM 135815","ceralbensis",NA,NA,"Baja California","Cerralvo Id.","24.226289999999999","-109.87267",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"35","sexlineatus",NA,"ANMO 3076","communis","communis",NA,"Michoacán","Camino de Ziracuaretiro a Taretán; entre El Patuán y Taretán","19.393083333333301","-101.92144444444445","1270","Macho","Adulto","49","RTAB003A","HiSeq 2500","AJB",NA
+"36","sexlineatus",NA,"ANMO 3078","communis","communis",NA,"Michoacán","Camino de Ziracuaretiro a Taretán; entre El Patuán y Taretán","19.393083333333301","-101.92144444444445","1270","Hembra","Adulto","50","RTAB003A","HiSeq 2500","AJB",NA
+"37","sexlineatus",NA,"ISZ 609","communis","communis",NA,"Michoacán","Aprox. 8.3 km al SW de Nueva Italia","18.979939999999999","-102.14849","347","Macho","Adulto","45","RTAB003A","HiSeq 2500","AJB",NA
+"38","sexlineatus",NA,"ISZ 636","communis","communis",NA,"Colima","Cerca de El Naranjo, aprox. 15 km al NW de Manzanillo","19.124970000000001","-104.40788999999999","3","Macho","Adulto","47","RTAB003A","HiSeq 2500","AJB",NA
+"39","sexlineatus",NA,"ISZ 637","communis","communis",NA,"Colima","Cerca de El Naranjo, aprox. 15 km al NW de Manzanillo","19.124970000000001","-104.40788999999999","3","Hembra","Adulto",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"40","sexlineatus",NA,"JAC 24111","communis","communis",NA,"Jalisco","Near Tepalcatepec","19.24372","-102.86725","479","Macho","Adulto","48","RTAB2018A","HiSeq 4000","AJB","resequenced"
+"41",NA,NA,"CUC030-3","communis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"42",NA,NA,"CUC37-1","communis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"43",NA,NA,"CUC37-3","communis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"44","sexlineatus",NA,"ANMO 4155","costatus","barrancorum",NA,"Sonora","Carr. 16. Yecora-Cuauhtemoc, Km 300-302, Los Pilares","28.39348","-108.79783","1618","Macho","Adulto","80","RTAB003A","HiSeq 2500","AJB",NA
+"45","sexlineatus",NA,"ANMO 2083","costatus","costatus",NA,"Puebla","Carr. Cuautla-Izucar de Matamoros","18.646222222222221","-98.672944444444454","1377",NA,NA,"35","RTAB2018A","HiSeq 4000","AJB",NA
+"46","sexlineatus",NA,"ANMO 2120","costatus","costatus",NA,"Tlaxcala","Cacaxtla","19.24775","-98.333111111111108","2316","Macho","Subadulto","33","RTAB003A","HiSeq 2500","AJB",NA
+"47","sexlineatus",NA,"ANMO 2121","costatus","costatus",NA,"Tlaxcala","Cacaxtla","19.24775","-98.333111111111108","2316","Macho","Subadulto","UH1","RTAB003A","HiSeq 2500","AJB",NA
+"48","sexlineatus",NA,"ANMO 2915","costatus","costatus",NA,"Morelos","Orillas SE de Mazatepec, lado de un rio","18.720638888888899","-99.357749999999996","962","Macho","Joven","38","RTAB003A","HiSeq 2500","AJB",NA
+"49","sexlineatus",NA,"ANMO 2916","costatus","costatus",NA,"Morelos","Orillas SE de Mazatepec, lado de un rio","18.720638888888899","-99.357749999999996","962","Macho","Joven","UH2","RTAB003A","HiSeq 2500","AJB",NA
+"50","sexlineatus",NA,"ANMO 3031","costatus","costatus",NA,"Puebla","Aprox 1.5 km SO de San Luis Temalacayuca","18.590859999999999","-97.540120000000002","1900","Macho","Subadulto","25","RTAB2018A","HiSeq 4000","AJB","resequenced"
+"51","sexlineatus",NA,"ANMO 3057","costatus","costatus",NA,"Guerrero","Sobre carretera Chilpancingo-Chilacayapa","17.58653","-99.38467","1388","Macho","Adulto","UH1","RTAB003A","HiSeq 2500","AJB",NA
+"52","sexlineatus",NA,"ANMO 3058","costatus","costatus",NA,"Guerrero","Sobre carretera Chilpancingo-Chilacayapa","17.58653","-99.38467","1388","Hembra","Adulto","30","RTAB003A","HiSeq 2500","AJB",NA
+"53","sexlineatus",NA,"ANMO 3263","costatus","costatus",NA,"Guerrero","Alrededores de Tlatlauquiltepec","17.552611111111101","-98.826277777777776","2144","Hembra","Subadulto","29","RTAB003A","HiSeq 2500","AJB",NA
+"54","sexlineatus",NA,"ANMO 3342","costatus","costatus",NA,"Guerrero","Carreteta Iguala-Chilpancingo, Plan de Liebres","17.874806","-99.589444","687","Macho","Adulto","UH2","RTAB003A","HiSeq 2500","AJB",NA
+"55","sexlineatus",NA,"ANMO 3648","costatus","costatus",NA,"Guerrero","Terraceria hacia Tecolapa, aprox. 0.66 km de la carretera Olinalá-Papalutla","18.000777777777778","-98.836222222222219","1540","Macho","Adulto","add","RTAB003A","HiSeq 2500","AJB",NA
+"56","sexlineatus",NA,"ANMO 3796","costatus","costatus",NA,"Puebla","Puente Río Atoyac","18.387129999999999","-98.305880000000002","989","Macho","Adulto","34","RTAB003A","HiSeq 2500","AJB",NA
+"57","sexlineatus",NA,"ANMO 3802","costatus","costatus",NA,"Puebla","Puente Rio Petlalcingo","18.077400000000001","-97.925110000000004","1343","Hembra","Joven","24","RTAB003A","HiSeq 2500","AJB",NA
+"58","sexlineatus",NA,"ANMO 3864","costatus","costatus",NA,"Oaxaca","2.6 km (en línea recta) NE Santiago Tamazola","17.71265","-98.206069999999997","1629","Macho","Subadulto","27","RTAB003A","HiSeq 2500","AJB",NA
+"59","sexlineatus",NA,"ANMO 3867","costatus","costatus",NA,"Oaxaca","5.0 km (en línea recta) NE Santiago Tamazola","17.71265","-98.206069999999997","1629","Hembra","Subadulto","UH2","RTAB003A","HiSeq 2500","AJB",NA
+"60","sexlineatus",NA,"ANMO 4028","costatus","costatus",NA,"Morelos","Barranca Guayabos","18.776278000000001","-98.906166999999996","1392","Macho","Adulto","39","RTAB003A","HiSeq 2500","AJB",NA
+"61","sexlineatus",NA,"ANMO 4029","costatus","costatus",NA,"Morelos","Barranca Guayabos","18.776278000000001","-98.906166999999996","1392","Hembra","Adulto","UH2","RTAB003A","HiSeq 2500","AJB",NA
+"62","sexlineatus",NA,"ANMO 864","costatus","costatus",NA,"Guerrero","Aprox km 202 de la autopista México-Acapulco o aprox 18 km por dicha autopista del Río Balsas hacia México","18.042549999999999","-99.261966999999999","1200",NA,"Jóven","43","RTAB003A","HiSeq 2500","AJB",NA
+"63","sexlineatus",NA,"ANMO 865","costatus","costatus",NA,"Guerrero","Aprox km 202 de la autopista México-Acapulco o aprox 18 km por dicha autopista del Río Balsas hacia México","18.042549999999999","-99.261966999999999","1200",NA,NA,"UH1","RTAB003A","HiSeq 2500","AJB",NA
+"64","sexlineatus",NA,"IDF 76","costatus","costatus",NA,"Guerrero","Camino a Omiltemi, antes de llegar a Amojileca","17.563694444444401","-99.55072222222222","1581","Hembra","Adulto",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"65","sexlineatus",NA,"IDF 77","costatus","costatus",NA,"Guerrero","Camino a Omiltemi; Amojileca","17.569944444444399","-99.60733333333333","1826","Macho","Subadulto","42","RTAB003A","HiSeq 2500","AJB",NA
+"66","sexlineatus",NA,"ISZ 961","costatus","costatus",NA,"Guerrero","Terraceria hacia Tecolapa, aprox. 0.8 km de la carretera Olinalá-Papalutla","18.002611111111111","-98.836194444444445","1530","Hembra","Adulto","31","RTAB003A","HiSeq 2500","AJB",NA
+"67","sexlineatus",NA,"OHG 19","costatus","costatus",NA,"Puebla",NA,"18.687384000000002","-97.661300999999995",NA,"Macho","Adulto","26","RTAB003A","HiSeq 2500","AJB",NA
+"68","sexlineatus",NA,"OHG 22","costatus","costatus",NA,"Puebla",NA,"18.687384000000002","-97.661300999999995",NA,"Hembra","Adulto",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"69","sexlineatus",NA,"UOGV 1123","costatus","costatus",NA,"Oaxaca","Km. 123 Carr. Huajapan de León-Izucar de Matamoros, Caseta de inspeccion fitozoosanitaria","17.886638888888889","-97.842555555555549","1858","Hembra","Adulto","28","RTAB003A","HiSeq 2500","AJB",NA
+"70","sexlineatus",NA,"UOGV 1446","costatus","costatus",NA,"Morelos","Ejido Corral Grande","18.93375","-98.973166666666671","1526",NA,NA,"37","RTAB003A","HiSeq 2500","AJB",NA
+"71","sexlineatus",NA,"UOGV 1477","costatus","costatus",NA,"Puebla","Huachinantla","18.28616666666667","-98.966138888888892","900","Hembra","Adulto","41","RTAB003A","HiSeq 2500","AJB",NA
+"72","sexlineatus",NA,"UOGV 1484","costatus","costatus",NA,"Guerrero","Camino a la Mina, Mexcala","17.923749999999998","-99.616","528",NA,NA,"44","RTAB003A","HiSeq 2500","AJB",NA
+"73","sexlineatus",NA,"UOGV 2266","costatus","costatus",NA,"Morelos","Balneario Los Limones, Anenecuilco","18.746722222222225","-98.976333333333329","1174",NA,"Joven","40","RTAB003A","HiSeq 2500","AJB",NA
+"74","sexlineatus",NA,"ANMO 3759","costatus","griseocephalus",NA,"Sonora","Agiabampo 2, Rio el Chilicote","26.320979999999999","-109.09316","34","Macho","Jóven","78","RTAB003A","HiSeq 2500","AJB",NA
+"75","sexlineatus",NA,"ANMO 3769","costatus","griseocephalus",NA,"Sinaloa","Jusibampo","27.069929999999999","-109.26976000000001","136",NA,"Jóven","UH2","RTAB003A","HiSeq 2500","AJB",NA
+"76","sexlineatus",NA,"ANMO 3770","costatus","griseocephalus","√","Sinaloa","Jusibampo","27.069929999999999","-109.26976000000001","136","Hembra","Jóven","77","RTAB003A","HiSeq 2500","AJB",NA
+"77","sexlineatus",NA,"ANMO 4102","costatus","griseocephalus",NA,"Sinaloa","Guasave, Río Sinaloa","25.576599999999999","-108.44835999999999","22","Macho","Adulto","UH1","RTAB003A","HiSeq 2500","AJB",NA
+"78","sexlineatus",NA,"ANMO 4104","costatus","griseocephalus",NA,"Sinaloa","Guasave, Río Sinaloa","25.576599999999999","-108.44835999999999","22","Macho","Adulto","62","RTAB003A","HiSeq 2500","AJB",NA
+"79","sexlineatus",NA,"ANMO 4105","costatus","griseocephalus",NA,"Sinaloa","Guasave, Rio Sinaloa","25.576599999999999","-108.44835999999999","22","Macho","Adulto","67","RTAB003A","HiSeq 2500","AJB",NA
+"80","sexlineatus",NA,"ANMO 4109","costatus","griseocephalus",NA,"Sinaloa","Carr. Los Mochis-El Fuerte, Sibahahuy","26.096129999999999","-108.75175","72","Hembra","Adulto","pend","RTAB2018A","HiSeq 4000","AJB","resequenced"
+"81","sexlineatus",NA,"ANMO 4110","costatus","griseocephalus",NA,"Sinaloa","Carr. Los Mochis-El Fuerte, Sibahahuy","26.096129999999999","-108.75175","72","Macho","Adulto","75","RTAB003A","HiSeq 2500","AJB",NA
+"82","sexlineatus",NA,"ANMO 4118","costatus","griseocephalus",NA,"Sonora","Rio Juchijaqui","26.853590000000001","-108.96451999999999","320","Macho","Adulto","76","RTAB003A","HiSeq 2500","AJB",NA
+"83","sexlineatus",NA,"UOGV 1321","costatus","griseocephalus",NA,"Sonora","Carr. Los Alamos-Los Tanques","27.158999999999999","-108.96222222222222","205","Macho","Adulto","74","RTAB003A","HiSeq 2500","AJB",NA
+"84","sexlineatus",NA,"UOGV 1322","costatus","griseocephalus",NA,"Sonora","Carr. Los Alamos-Los Tanques","27.158999999999999","-108.96222222222222","205",NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"85","sexlineatus",NA,"ANMO 3782","costatus","huico","√","Nayarit","Peñitas, Rio San Pedro","21.951000000000001","-105.22069999999999","24","Macho","Adulto","71","RTAB003A","HiSeq 2500","AJB",NA
+"86","sexlineatus",NA,"ANMO 3783","costatus","huico",NA,"Nayarit","Peñitas, Rio San Pedro","21.951000000000001","-105.22069999999999","24","Hembra","Adulto","UH2","RTAB003A","HiSeq 2500","AJB",NA
+"87","sexlineatus",NA,"ANMO 4065","costatus","huico",NA,"Sinaloa","Santa Lucia","23.417459999999998","-105.86532","1226","Hembra","Adulto","69","RTAB003A","HiSeq 2500","AJB",NA
+"88","sexlineatus",NA,"ANMO 4092","costatus","huico",NA,"Sinaloa","Siqueros","23.34628","-106.24372","33","Macho","Adulto",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"89","sexlineatus",NA,"ISZ 664","costatus","huico",NA,"Nayarit","Mesillas, aprox. 15 km al E de Las Varas","21.221215000000001","-105.015072","436","Macho","Adulto",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"90","sexlineatus",NA,"ANMO 1211","costatus","mazatlanensis",NA,"Sinaloa","El Potrero de Carrasco, aprox 16 km N Mazatlán","23.3891666666667","-106.44388888888889","41",NA,"Cría","pend","RTAB003A","HiSeq 2500","AJB",NA
+"91","sexlineatus",NA,"ANMO 3748","costatus","mazatlanensis",NA,"Sinaloa","Carr. Mazatlan-El Quelite, Arroyo San Pablo","23.4453","-106.4662","39",NA,"Jóven","60","RTAB003A","HiSeq 2500","AJB",NA
+"92","sexlineatus",NA,"ANMO 4094","costatus","mazatlanensis",NA,"Sinaloa","Siqueros","23.348096999999999","-106.24715399999999","54","Macho","Adulto",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"93","sexlineatus",NA,"ANMO 4103","costatus","mazatlanensis",NA,"Sinaloa","Guasave, Río Sinaloa","25.576599999999999","-108.44835999999999","22","Macho","Adulto",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"94","sexlineatus",NA,"ANMO 4098","costatus","nigrigularis","√","Sinaloa","2.2 km NE de la Campana","25.005669999999999","-107.55267000000001","129","Macho","Adulto","65","RTAB003A","HiSeq 2500","AJB",NA
+"95","sexlineatus",NA,"ANMO 4100","costatus","nigrigularis",NA,"Sinaloa","2.2 km NE de la Campana","25.005669999999999","-107.55267000000001","129","Macho","Adulto","UH1","RTAB2018A","HiSeq 4000","AJB",NA
+"96","sexlineatus",NA,"ECA 546","costatus","nigrigularis",NA,"Durango","3.3 km SW (en línea recta) de Coacoyote, Tamazula","24.491582999999999","-106.6035","691",NA,"Cría","UH1","RTAB003A","HiSeq 2500","AJB",NA
+"97","sexlineatus",NA,"ANMO 3786","costatus","occidentalis","√","Nayarit","Ixtlan del Rio","21.03492","-104.36732000000001","1041",NA,"Jóven","58","RTAB003A","HiSeq 2500","AJB",NA
+"98","sexlineatus",NA,"ANMO 4767","costatus","occidentalis",NA,"Jalisco","Under a rock, along a road in the hills on the south shore of Lago de Chapala, Jalisco","20.187249999999999","-103.31061",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"99","sexlineatus",NA,"ANMO 4769","costatus","occidentalis",NA,"Jalisco","Under a rock, along a road in the hills on the south shore of Lago de Chapala, Jalisco","20.187249999999999","-103.31061",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"100","sexlineatus",NA,"CDR 259A","costatus","occidentalis",NA,"Jalisco","Instituto de Biotecnología Animal, CUCBA, U de G, ""Rancho La Cofradia"", Loc. Pueblo La Cofradia, Calle Juárez No. 4","20.471364000000001","-103.558876","1528","Hembra","Subadulto","UH1","RTAB003A","HiSeq 2500","AJB",NA
+"101","sexlineatus",NA,"ISZ 653","costatus","occidentalis",NA,"Nayarit","Mesillas, aprox. 6.5 km al S de Las Varas","21.125499999999999","-105.16808","70","Macho","Adulto","70","RTAB003A","HiSeq 2500","AJB",NA
+"102","sexlineatus",NA,"JAC 30211","costatus","occidentalis",NA,"Nayarit","Road S from Barranca del Oro; stream under Puente el Barranqueno","20.92267","-104.47967","714",NA,NA,"UH2","RTAB003A","HiSeq 2500","AJB",NA
+"103","sexlineatus",NA,"UOGV 2141","costatus","occidentalis",NA,"Jalisco","Ixtlahuacán del Río","20.943472222222223","-103.46644444444445","1643","Macho","Jóven","57","RTAB003A","HiSeq 2500","AJB",NA
+"104","sexlineatus",NA,"ANMO 3103","costatus","zweifeli",NA,"Guerrero","Carretera Arcelia-Cd. Altamirano, monumento a Lázaro Cárdenas","18.281916666666699","-100.44555555555556","374","Macho","Adulto","53","RTAB003A","HiSeq 2500","AJB",NA
+"105","sexlineatus",NA,"ANMO 3104","costatus","zweifeli",NA,"Guerrero","Carretera Arcelia-Cd. Altamirano, monumento a Lázaro Cárdenas","18.281916666666667","-100.44555555555556","374",NA,"Jóven",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"106","sexlineatus",NA,"OHG 14","costatus","zweifeli",NA,"Guerrero","Zacatlán","18.313610000000001","-99.900094999999993",NA,"Macho","Adulto","UH1","RTAB003A","HiSeq 2500","AJB",NA
+"107","sexlineatus",NA,"OHG 15","costatus","zweifeli",NA,"Guerrero","Zacatlán","18.313610000000001","-99.900094999999993","?","Macho","Adulto","52","RTAB003A","HiSeq 2500","AJB",NA
+"108","sexlineatus",NA,"OHG 4","costatus","zweifeli",NA,"Guerrero","Coyuca de Catalán","18.324864000000002","-100.69868200000001",NA,"Macho","Adulto",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"109","sexlineatus",NA,"OHG 5","costatus","zweifeli",NA,"Estado de México","Bejucos","18.778908000000001","-100.42791800000001",NA,"Hembra","Adulto","51","RTAB003A","HiSeq 2500","AJB",NA
+"110","sexlineatus",NA,"OHG 6","costatus","zweifeli",NA,"Estado de México","Bejucos","18.778908000000001","-100.42791800000001",NA,"Hembra","Subadulto","UH1","RTAB003A","HiSeq 2500","AJB",NA
+"111","sexlineatus",NA,"OHG 8","costatus","zweifeli",NA,"Guerrero","Coyuca de Catalán","18.324864000000002","-100.69868200000001",NA,"Macho","Adulto","54","RTAB003A","HiSeq 2500","AJB",NA
+"112","sexlineatus",NA,"ANMO 4091","costatus",NA,NA,"Sinaloa","Siqueros","23.34628","-106.24372","33","Macho","Adulto","72","RTAB003A","HiSeq 2500","AJB",NA
+"113","sexlineatus",NA,"ANMO 4093","costatus",NA,NA,"Sinaloa","Siqueros","23.348096999999999","-106.24715399999999","54","Macho","Adulto","64","RTAB003A","HiSeq 2500","AJB",NA
+"114","sexlineatus",NA,"ANMO 4101","costatus",NA,NA,"Sinaloa","Carr. Culiacan-Guasave","25.251740000000002","-108.04224000000001","47","Macho","Adulto","63","RTAB003A","HiSeq 2500","AJB",NA
+"115","sexlineatus",NA,"ANMO 4459","costatus",NA,NA,"Puebla","San Gabriel Tetzoyocan, aproximadamente 1 km NO","18.764980000000001","-97.710179999999994","2060",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"116","sexlineatus",NA,"ANMO 4460","costatus",NA,NA,"Puebla","San Gabriel Tetzoyocan, aproximadamente 1 km NO","18.764980000000001","-97.710179999999994","2060",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"117","sexlineatus",NA,"ANMO 4465","costatus",NA,NA,"Puebla","San Luis Temalacayuca, 2 km NE","18.616019999999999","-97.541489999999996","1964",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"118","sexlineatus",NA,"ANMO 4466","costatus",NA,NA,"Puebla","San Luis Temalacayuca, 2 km NE","18.616019999999999","-97.541489999999996","1964",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"119","sexlineatus",NA,"ANMO 4497","costatus",NA,NA,"Oaxaca","Camino de Huajuapan de León to Santiago Juxtlahuaca","17.756799999999998","-97.806290000000004",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"120","sexlineatus",NA,"ANMO 4502","costatus",NA,NA,"Oaxaca","Camino de Huajuapan de León to Santiago Juxtlahuaca","17.756799999999998","-97.806290000000004",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"121","sexlineatus",NA,"ANMO 4512","costatus",NA,NA,"Oaxaca","Carretera de Juxtlahuaca a Huajuapan de León, cerca de Tlacotepec","17.386510000000001","-98.020709999999994","1711",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"122","sexlineatus",NA,"ANMO 4514","costatus",NA,NA,"Oaxaca","Carretera de Juxtlahuaca a Huajuapan de León, cerca de Tlacotepec","17.386510000000001","-98.020709999999994","1711",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"123","sexlineatus","LACM 130356","TC 130","costatus",NA,NA,"Guerrero","1.2 mi. (by Hwy 95) S jct. With rd to Mezcala","17.91","-99.59",NA,"Male",NA,"PC 692","RTAB2018A","HiSeq 4000","AJB",NA
+"124","sexlineatus",NA,"UOGV 1302","costatus",NA,NA,"Sinaloa","Carr. Pericos-Santiago de los Caballeros","25.457527777777777","-107.52905555555556","360","Macho","Adulto","61","RTAB003A","HiSeq 2500","AJB",NA
+"125","sexlineatus",NA,"UOGV 1305","costatus",NA,NA,"Sinaloa","Carr. Badiraguato-Surutato, entre Sitio de en medio y Surutato","25.581888888888887","-107.57886111111111","519","Hembra","Adulto","66","RTAB003A","HiSeq 2500","AJB",NA
+"126","cozumelus",NA,"NLMM 035","cozumelus",NA,NA,"Quintana Roo","Isla Cozumel","20.425544444444444","-86.841074999999989",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"127","cozumelus",NA,"NLMM 105","cozumelus",NA,NA,"Quintana Roo","Mezcalitos","20.425544444444444","-86.841074999999989",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"128","cozumelus",NA,"NLMM 106","cozumelus",NA,NA,"Quintana Roo","Mezcalitos","20.425544444444444","-86.841074999999989",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"129","cozumelus",NA,"NLMM 107","cozumelus",NA,NA,NA,NA,"20.425544444444444","-86.841074999999989",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"130","cozumelus",NA,"NLMM 108","cozumelus",NA,NA,NA,NA,"20.425544444444444","-86.841074999999989",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"131","cozumelus",NA,"NLMM 111","cozumelus",NA,NA,NA,NA,"20.425544444444444","-86.841074999999989",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"132","cozumelus",NA,"NLMM 113","cozumelus",NA,NA,"Quintana Roo","Cozumel","?","?",NA,NA,NA,"124","RTAB003A","HiSeq 2500","AJB",NA
+"133","cozumelus",NA,"NLMM 191","cozumelus",NA,NA,"Quintana Roo","San Gervacio","20.498216666666668","-86.844830555555546",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"134","cozumelus","LACM 127643","TC 33","cozumelus",NA,NA,"Quintana Roo","Isla Mujeres, NE side","21.26","-86.75",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB","species name is rodecki in tissue catalog card"
+"135",NA,NA,"NLMM113","cozumelus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"136",NA,NA,"NLMM116","cozumelus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"137",NA,NA,"NLMM191","cozumelus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"138","deppii",NA,"ANMO 1011","deppii","deppii",NA,"Chiapas","Aprox. 1 km desde el puente sobre el Cañón del Sumidero hacia Chiapa de Corzo sobre carr Tuxtla Gutiérrez-Chiapa de Corzo","16.741388888888888","-93.025055555555554",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"139","deppii",NA,"ANMO 1824","deppii","deppii",NA,"Tabasco","Magallanes","18.304000000000002","-93.840611111111102",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"140","deppii",NA,"ANMO 2203","deppii","deppii",NA,"Oaxaca","San Pedro Juchatengo, terrenos aledaños al rio Atoyac","16.346666666666664","-97.092583333333323",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"141","deppii",NA,"ANMO 2210","deppii","deppii",NA,"Oaxaca","San Pedro Juchatengo, terrenos aledaños al rio Atoyac","16.346666666666664","-97.092583333333323",NA,NA,NA,"UH4","RTAB004","HiSeq 2500","AJB",NA
+"142","deppii",NA,"ANMO 2210","deppii","deppii",NA,"Oaxaca","San Pedro Juchatengo, terrenos aledaños al rio Atoyac","16.346666666666664","-97.092583333333323",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"143","deppii",NA,"ANMO 2490","deppii","deppii",NA,"Oaxaca","Colonia La Cruz, Puerto Escondido","15.82925","-97.035305555555553",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB","Podría ser schizophorus X deppii? Se complica saber al ser un juvenil."
+"144","deppii",NA,"ANMO 2493","deppii","deppii",NA,"Oaxaca","Pochutla","15.723861111111111","-96.478055555555557",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"145","deppii",NA,"ANMO 2494","deppii","deppii",NA,"Oaxaca","Pochutla","15.723861111111111","-96.478055555555557",NA,NA,NA,"UH4","RTAB004","HiSeq 2500","AJB","resequenced"
+"146","deppii",NA,"ANMO 2500","deppii","deppii",NA,"Oaxaca","Puente Chague, cerca de Huatulco, en carretera Huatulco-Salina Cruz","15.788166666666667","-96.142138888888894",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"147","deppii",NA,"ANMO 2502","deppii","deppii",NA,"Oaxaca","Puente Chague, cerca de Huatulco, en carretera Huatulco-Salina Cruz","15.788166666666667","-96.142138888888894",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"148","deppii",NA,"ANMO 2509","deppii","deppii",NA,"Oaxaca","Carretera Huatulco-Salina Cruz, antes del Puente Laguna Seca","15.793805555555556","-96.127138888888879",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"149","deppii",NA,"ANMO 2510","deppii","deppii",NA,"Oaxaca","Carretera Huatulco-Salina Cruz, antes del Puente Laguna Seca","15.793805555555556","-96.127138888888879",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"150","deppii",NA,"ANMO 2547","deppii","deppii",NA,"Campeche","Emiliano Zapata, cerca de Nuevo Progreso","18.672138888888892","-92.162611111111119",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"151","deppii",NA,"ANMO 2574","deppii","deppii",NA,"Tabasco","Bateria No. 5 de Pemex, en El Yucateco","18.213750000000001","-94.012694444444449",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"152","deppii",NA,"ANMO 2580","deppii","deppii",NA,"Veracruz","Villa de Allende, junto a restaurant Monoboya III","18.160472222222221","-94.375361111111104",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"153","deppii",NA,"ANMO 2584","deppii","deppii",NA,"Veracruz","Villa de Allende, junto a restaurant Monoboya III","18.160472222222221","-94.375361111111104",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"154","deppii",NA,"ANMO 2599","deppii","deppii",NA,"Veracruz","Aprox. 1 km antes de la desviación al Platanillo, viniendo de Lerdo de Tejada","18.678250000000002","-95.557611111111115",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"155","deppii",NA,"ANMO 2601","deppii","deppii",NA,"Veracruz","Aprox. 1 km al N de Buenavista, viniendo de Lerdo de Tejada","18.733611111111113","-95.686250000000001",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"156","deppii",NA,"ANMO 2686","deppii","deppii",NA,"Oaxaca","Aprox 2 km al este de la carretera Mx con direccion a Nejapa","16.608879999999999","-96.008690000000001",NA,NA,NA,"UH4","RTAB004","HiSeq 2500","AJB",NA
+"157","deppii",NA,"ANMO 2808","deppii","deppii",NA,"Veracruz","Chachalacas","19.438805555555557","-96.321583333333336",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"158","deppii",NA,"ANMO 2809","deppii","deppii",NA,"Veracruz","Chachalacas","19.438805555555557","-96.321583333333336",NA,NA,NA,"UH4","RTAB004","HiSeq 2500","AJB",NA
+"159","deppii",NA,"ANMO 2823","deppii","deppii",NA,"Chiapas","2.4 km del cereso de Tonalá","16.189222222222224","-93.849083333333326",NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB",NA
+"160","deppii",NA,"ANMO 2827","deppii","deppii",NA,"Chiapas","2.4 km del cereso de Tonalá","16.189222222222224","-93.849083333333326",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"161","deppii",NA,"ANMO 2890","deppii","deppii",NA,"Chiapas","Rancho el Tábano, aproximadamente a 12.5 km de la frontera con Chiapas","16.274694444444442","-94.148194444444457",NA,NA,NA,"UH4","RTAB004","HiSeq 2500","AJB",NA
+"162","deppii",NA,"ANMO 2904","deppii","deppii",NA,"Chiapas","Ribera Gabilán","16.750444444444444","-93.457527777777784",NA,NA,NA,"UH4","RTAB004","HiSeq 2500","AJB",NA
+"163","deppii",NA,"ANMO 2967","deppii","deppii",NA,"Guerrero","Carretera de Copala a Atrisco","16.614500000000003","-98.958611111111111",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"164","deppii",NA,"ANMO 3149","deppii","deppii",NA,"Veracruz","Playa de Villa Rica","19.675305555555557","-96.398083333333346",NA,NA,NA,"UH7","RTAB2018A","HiSeq 4000","AJB",NA
+"165","deppii",NA,"ANMO 3151","deppii","deppii",NA,"Veracruz","Playa de Villa Rica","19.675305555555557","-96.398083333333346",NA,NA,NA,"UH7","RTAB2018A","HiSeq 4000","AJB",NA
+"166","deppii",NA,"ANMO 3151","deppii","deppii",NA,"Veracruz","Playa de Villa Rica","19.675305555555557","-96.398083333333346",NA,NA,NA,"UH7","RTAB2018A","HiSeq 4000","AJB",NA
+"167","deppii",NA,"ANMO 3353","deppii","deppii",NA,"Guerrero","Carr. 95 en el cruce con el Río Papagayo","17.180667","-99.609194000000002",NA,NA,NA,"UH1","RTAB004","HiSeq 2500","AJB",NA
+"168","deppii",NA,"ANMO 3457","deppii","deppii",NA,"Guerrero","Carr. Coyuca de Benítez-Atoyac de Álvarez, Pte. Coyuca I","17.008555999999999","-100.097139",NA,NA,NA,"UH1","RTAB004","HiSeq 2500","AJB",NA
+"169","deppii",NA,"ANMO 721","deppii","deppii",NA,"Oaxaca","Sierra Mixe, 32.7 km (por carr) de Mitla hacia Ayutla","16.96","-96.207333333333338",NA,NA,NA,"UH3","RTAB004","HiSeq 2500","AJB",NA
+"170","deppii",NA,"ANMO 870","deppii","deppii",NA,"Guerrero","Pueblo Nicolás Bravo (sobre carretera de la autopista México-Acapulco hacia Pinotepa Nacional)","16.836383333333334","-99.748400000000004",NA,NA,NA,"UH3","RTAB004","HiSeq 2500","AJB",NA
+"171","deppii",NA,"ANMO 878","deppii","deppii",NA,"Oaxaca","Aprox 2 km por carretera hacia Sn. Pedro Orizaba desde la desviación de la carretera 200 Cruz Grande-Pinotepa Nacional (desviación @ aprox 7 km por carretera 200 de Cuajinicuilapa hacia Pinotepa Nacional)","16.450383333333335","-98.331333333333333",NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB",NA
+"172","deppii",NA,"ANMO 929","deppii","deppii",NA,"Oaxaca","Alrededores (NE) de Zanatepec","16.486133333333335","-94.351533333333336",NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB",NA
+"173","deppii",NA,"ANMO 934","deppii","deppii",NA,"Oaxaca","Aprox 4 km por carretera hacia las ruinas de Guiengola desde la desviación de la carretera 190 Tehuantepec-Oaxaca (desviación @ aprox 10 km por carretera de Tehuantepec hacia Oaxaca)","16.37595","-95.317850000000007",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"174","deppii",NA,"ANMO 935","deppii","deppii",NA,"Oaxaca","Aprox 4 km por carretera hacia las ruinas de Guiengola desde la desviación de la carretera 190 Tehuantepec-Oaxaca (desviación @ aprox 10 km por carretera de Tehuantepec hacia Oaxaca)","16.37595","-95.317850000000007",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"175","deppii",NA,"EPR 1221","deppii","deppii",NA,"Oaxaca","Mixtequilla","16.374444440000001","-95.259722199999999",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"176","deppii",NA,"EPR 1356","deppii","deppii",NA,"Veracruz","8 km E Lerdo de Tejada","18.666666670000001","-95.483333299999998",NA,NA,NA,"UH2","RTAB004","HiSeq 2500","AJB",NA
+"177","deppii",NA,"IDF 166","deppii","deppii",NA,"Chiapas","Camino a Francisco G.Mujica","16.069805555555554","-92.168472222222221",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"178","deppii",NA,"IDF 169","deppii","deppii",NA,"Campeche","Nuevo Campechito","18.649472222222222","-92.466388888888886",NA,NA,NA,"UH3","RTAB004","HiSeq 2500","AJB",NA
+"179","deppii",NA,"IDF 199","deppii","deppii",NA,"Chiapas","Ranchería Barrita de Pajón, carretera Buenavista rumbo a El Zapotal","15.396416666666665","-93.103555555555545",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"180","deppii",NA,"JAC 19623","deppii","deppii",NA,"Guatemala",NA,NA,NA,NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"181","deppii",NA,"JAC 21902","deppii","deppii",NA,"Oaxaca","Mixtequilla","16.374444440000001","-95.259722199999999",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"182","deppii",NA,"LDOR 30","deppii","deppii",NA,"Camp?","Isla del Carmen",NA,NA,NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"183","deppii",NA,"LMOO 102","deppii","deppii",NA,"Chiapas","km 170 carretera Arriaga-Tapachula, Col. Miguel Alemán (Jericó), Rancho 3 Hermanos; Municipio: Pijijiapan","15.55916667","-93.017777800000005",NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB",NA
+"184","deppii",NA,"LMOO 92","deppii","deppii",NA,"Chiapas","km 170 carretera Arriaga-Tapachula, Col. Miguel Alemán (Jericó), Rancho 3 Hermanos; Municipio: Pijijiapan","15.55916667","-93.017777800000005",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"185","deppii",NA,"LNG 428","deppii","deppii",NA,"Oaxaca","Playa Colorada, 1.6 airline km S of Mex-200","15.95265","-95.579419999999999",NA,NA,NA,"UH4","RTAB004","HiSeq 2500","AJB",NA
+"186","deppii",NA,"LNG 429","deppii","deppii",NA,"Chiapas","Parking lot of Potayo Inn, 2.0 road km N of Villaflores","16.258769999999998","-93.264099999999999",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"187","deppii",NA,"MSM 349","deppii","deppii",NA,"Guatemala",NA,NA,NA,NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB",NA
+"188","deppii",NA,"MSM 389","deppii","deppii",NA,"Guatemala",NA,NA,NA,NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB",NA
+"189","deppii",NA,"RLR 1023","deppii","deppii",NA,"Chiapas","Ejido Barra San Simón","14.830277779999999","-92.453888899999995",NA,NA,NA,"UH4","RTAB004","HiSeq 2500","AJB",NA
+"190","deppii",NA,"UOGV 1002","deppii","deppii",NA,"Tabasco","Club de Playa Varadero en Paraiso","18.437999999999999","-93.22386111111112",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"191","deppii",NA,"UOGV 1015","deppii","deppii",NA,"Veracruz","Rumbo a la playa de Lerdo de Tejada, aprox. 8 km de Lerdo de Tejada por el camino a la playa","18.699444444444445","-95.490361111111113",NA,NA,NA,"UH7","RTAB004","HiSeq 2500","AJB",NA
+"192","deppii",NA,"UOGV 1019","deppii","deppii",NA,"Veracruz","Arbolillo, playa de Alvarado","18.818916666666667","-95.835694444444442",NA,NA,NA,"UH2","RTAB004","HiSeq 2500","AJB",NA
+"193","deppii",NA,"UOGV 181","deppii","deppii",NA,"Veracruz","1.5 Km E de Ejido Los Pericos, Carr. Las Choapas-Tuxtla Gutierrez","17.856138888888889","-94.091972222222211",NA,NA,NA,"UH7","RTAB2018A","HiSeq 4000","AJB",NA
+"194","deppii",NA,"UOGV 837","deppii","deppii",NA,"Guerrero","Km 149 carretera Marquelia-Pinotepa Nacional (Mex 200)","16.60927777777778","-98.714666666666673",NA,NA,NA,"UH2","RTAB004","HiSeq 2500","AJB",NA
+"195","deppii",NA,"UOGV 893a","deppii","deppii",NA,"Chiapas","Camino de Paraiso Grijalva a Col. Nuevo Jordan, alrededores de la Presa La Angostura","16.193249999999999","-92.607888900000006",NA,NA,NA,"UH7","RTAB004","HiSeq 2500","AJB",NA
+"196","deppii",NA,"UOGV 917","deppii","deppii",NA,"Oaxaca","1.5 km NW San Pedro Totolapan, por carretera Mex 190 Oaxaca-Juchitán","16.685277777777777","-96.320416666666659",NA,NA,NA,"UH4","RTAB2018A","HiSeq 4000","AJB",NA
+"197","deppii","MVZ 204070",NA,"deppii","deppii",NA,"Costa Rica","Guanacaste, Playa Ocotal","10.55","-85.733329999999995",NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB",NA
+"198","deppii",NA,"ANMO 1069","deppii","infernalis",NA,"Michoacán","Aprox. 3 km por carr de cuota 37 del Puente El Marqués hacia Nueva Italia (aprox km 168)","18.863194444444446","-102.07097222222222",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"199","deppii",NA,"ANMO 3037","deppii","infernalis",NA,"Guerrero","Zumpango del Río","17.646329999999999","-99.536540000000002",NA,NA,NA,"UH4, 7","RTAB2018A","HiSeq 4000","AJB",NA
+"200","deppii",NA,"ANMO 3039","deppii","infernalis",NA,"Guerrero","Zumpango del Río","17.646329999999999","-99.536540000000002",NA,NA,NA,"UH7","RTAB2018A","HiSeq 4000","AJB",NA
+"201","deppii",NA,"ANMO 3089","deppii","infernalis",NA,"Michoacán","Alrededores de San Jerónimo; salida del pueblo hacia Churumuco","18.532638888888886","-101.33202777777777",NA,NA,NA,"UH5","RTAB004","HiSeq 2500","AJB",NA
+"202","deppii",NA,"ANMO 3090","deppii","infernalis",NA,"Michoacán","Alrededores de San Jerónimo; salida del pueblo hacia Churumuco","18.532638888888886","-101.33202777777777",NA,NA,NA,"UH2","RTAB2018A","HiSeq 4000","AJB",NA
+"203","deppii",NA,"ANMO 3093","deppii","infernalis",NA,"Michoacán","Alrededores de Cumburindio, camino a Turitzio","18.542194444444448","-100.95822222222222",NA,NA,NA,"UH1","RTAB2018A","HiSeq 4000","AJB",NA
+"204","deppii",NA,"ANMO 3095","deppii","infernalis",NA,"Michoacán","Alrededores de Cumburindio, camino a Turitzio","18.542194444444448","-100.95822222222222",NA,NA,NA,"UH7","RTAB2018A","HiSeq 4000","AJB",NA
+"205","deppii",NA,"ANMO 3096","deppii","infernalis",NA,"Michoacán","Alrededores de Cumburindio, camino a Turitzio","18.542194444444448","-100.95822222222222",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"206","deppii",NA,"ANMO 3097","deppii","infernalis",NA,"Michoacán","Alrededores de Cumburindio, camino a Turitzio","18.542194444444448","-100.95822222222222",NA,NA,NA,"UH2","RTAB004","HiSeq 2500","AJB",NA
+"207","deppii",NA,"ANMO 3107","deppii","infernalis",NA,"Guerrero","Aproximadamente km 55 sobre carretera Arcelia-Cd. Altamirano, “El Tanque”","18.270944444444442","-100.47355555555556",NA,NA,NA,"UH2","RTAB004","HiSeq 2500","AJB",NA
+"208","deppii",NA,"ANMO 3108","deppii","infernalis",NA,"Guerrero","Aproximadamente km 55 sobre carretera Arcelia-Cd. Altamirano, “El Tanque”","18.270944444444442","-100.47355555555556",NA,NA,NA,"UH5","RTAB004","HiSeq 2500","AJB",NA
+"209","deppii",NA,"ANMO 3798","deppii","infernalis",NA,"Puebla","Puente Río Atoyac","18.387129999999999","-98.305880000000002",NA,NA,NA,"UH1","RTAB004","HiSeq 2500","AJB",NA
+"210","deppii",NA,"ANMO 3800","deppii","infernalis",NA,"Puebla","1.5 km NW Pueblo de Galeana","18.266400000000001","-98.108159999999998",NA,NA,NA,"UH1","RTAB2018A","HiSeq 4000","AJB",NA
+"211","deppii",NA,"ANMO 432","deppii","infernalis",NA,"Morelos","Aproximadamente 2 km NE Puente de Ixtla; desviación de la autopista México-Acapulco hacia Iguala y Taxco (carr 95D, km 0)","18.651116666666667","-99.298566666666673",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"212","deppii",NA,"EPR 1163","deppii","infernalis",NA,"Puebla","Pueblo de San Miguel","18.518333330000001","-98.334166659999994",NA,NA,NA,NA,"RTAB004","HiSeq 2500","AJB",NA
+"213","deppii",NA,"UOGV 1522","deppii","infernalis",NA,"Michoacán","Carr. Nueva Italia-Apatzingan","19.001916666666666","-102.21647222222222",NA,NA,NA,"UH5","RTAB004","HiSeq 2500","AJB",NA
+"214","deppii",NA,"ANMO 2812","deppii","schizophorus",NA,"Veracruz","Faro Punta Delgada","19.857222222222223","-96.463055555555556",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"215","deppii",NA,"ANMO 2813","deppii","schizophorus",NA,"Veracruz","Faro Punta Delgada","19.857222222222223","-96.463055555555556",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"216","deppii",NA,"ANMO 2814","deppii","schizophorus",NA,"Veracruz","Faro Punta Delgada","19.857222222222223","-96.463055555555556",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"217","deppii",NA,"ANMO 3137","deppii","schizophorus",NA,"Veracruz","2 km SE Tecolutla","20.466666669999999","-97.008611099999996",NA,NA,NA,"UH5","RTAB004","HiSeq 2500","AJB",NA
+"218","deppii",NA,"ANMO 3138","deppii","schizophorus",NA,"Veracruz","Barra de Tecolutla","20.47475","-97.008722222222218",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"219","deppii",NA,"ANMO 3139","deppii","schizophorus",NA,"Veracruz","Las Higueras","20.045555555555556","-96.61311111111111",NA,NA,NA,"UH5","RTAB004","HiSeq 2500","AJB","4 supraoculares y en un lado tiene 3 gránulos en la segunda hilera entre supraoculares y superciliares"
+"220","deppii",NA,"UOGV 229","deppii","schizophorus",NA,"Veracruz","Barra de Tecolutla","20.459250000000001","-96.987138888888893",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"221","deppii",NA,"AMNO 4635","deppii",NA,NA,"Guerrero","Cacalutla","17.119392999999999","-100.347971",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"222","deppii",NA,"ANMO 4401","deppii",NA,NA,"Veracruz","El Riachuelo","20.422650000000001","96.959180000000003",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"223","deppii",NA,"ANMO 4414","deppii",NA,NA,"Veracruz","San Jerónimo, junto al río Papaloapan","18.557300000000001","95.725650000000002",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"224","deppii",NA,"ANMO 4426","deppii",NA,NA,"Veracruz","Villa de Allende, aproximadamente 15 km ENE","18.187360000000002","94.241169999999997",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"225","deppii",NA,"ANMO 4431","deppii",NA,NA,"Chiapas","Jaltenango La Paz, 1 km N; al lado de carretera Villaflores-Villa Corzo","15.888159999999999","92.722830000000002",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"226","deppii",NA,"ANMO 4432","deppii",NA,NA,"Chiapas","Jaltenango La Paz, 1 km N; al lado de carretera Villaflores-Villa Corzo","15.888159999999999","92.722830000000002","619",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"227","deppii",NA,"ANMO 4435","deppii",NA,NA,"Chiapas","Desviación hacia Tres Picos de la carretera Mex 200 Arriaga-Tapachula","15.910304999999999","-93.539910000000006",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"228","deppii",NA,"ANMO 4441","deppii",NA,NA,"Chiapas","Chocohuital, aproximadamente 4 km NE; cruce de la carretera Pijijiapan-Chocohuital y rio","15.625540000000001","93.305160000000001",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"229","deppii",NA,"ANMO 4531","deppii",NA,NA,"Oaxaca","La Arena, Puente Rio Verde II",NA,NA,"292",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"230","deppii",NA,"ANMO 4534","deppii",NA,NA,"Oaxaca","Carretera 200, cerca de Rio Verde entre Santiago Jamiltepec and San José del Progreso","16.154920000000001","-97.731549999999999","36",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"231","deppii",NA,"ANMO 4536","deppii",NA,NA,"Oaxaca","Carretera 200, cerca de Rio Verde entre Santiago Jamiltepec and San José del Progreso","16.154920000000001","-97.731549999999999","36",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"232","deppii",NA,"ANMO 4543","deppii",NA,NA,"Oaxaca","Rio Manialtepec","15.959540000000001","-97.247","32",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"233","deppii",NA,"ANMO 4544","deppii",NA,NA,"Oaxaca","Rio Manialtepec",NA,NA,"32",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"234","deppii",NA,"ANMO 4565","deppii",NA,NA,"Oaxaca","El Lagartero (camino Puerto Escondido a Salina Cruz)",NA,NA,"22",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"235","deppii",NA,"ANMO 4566","deppii",NA,NA,"Oaxaca","El Lagartero (camino Puerto Escondido a Salina Cruz)","15.73208","-96.677580000000006",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"236","deppii",NA,"ANMO 4580","deppii",NA,NA,"Oaxaca","Puente Zimatán","15.84722","-95.996530000000007",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"237","deppii",NA,"ANMO 4587","deppii",NA,NA,"Oaxaca","Barra de la Cruz","15.83958","-95.967290000000006","605",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"238","deppii",NA,"ANMO 4590","deppii",NA,NA,"Oaxaca","Barra de la Cruz","15.83958","-95.967290000000006","605",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"239","deppii",NA,"ANMO 4668","deppii",NA,NA,"Oaxaca","Villa de Tututepec de Melchor Ocampo","16.18507","-97.713920000000002",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"240","deppii",NA,"LNG 1190","deppii",NA,NA,"Oaxaca","On ranch near Las Tejas, East of Jalapa de Marquez, along freeway Tehuantepec-Oaxaca City, Oaxaca, Mexico","16.344550000000002","-95.326549999999997",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"241","deppii","LACM 130431","TC 124","deppii",NA,NA,"Guerrero","2 mi (by rd.) SE jct with Acapulco Airport Hwy on rd to Chapultepec.","16.79","-99.8",NA,"Female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"242","sexlineatus (u)",NA,"AMNH 113489","exsanguis",NA,NA,"Texas","Brewster: 7.3 mi (via Tx Hwy 118) SE Alpine",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"243","sexlineatus (u)",NA,"AMNH 113500","exsanguis",NA,NA,"Chihuahua","8.2 mi (by Mex hwy 23) N Cuauhtémoc",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"244","sexlineatus (u)",NA,"AMNH 113504","exsanguis",NA,NA,"Chihuahua","2.0 mi (by Mex hwy 45) NW Bachimba",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"245","sexlineatus (u)",NA,"AMNH 113517","exsanguis",NA,NA,"Chihuahua","24.0 mi (by Mex hwy 23) N Cuauhtémoc, then 0.8 mi W",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"246","sexlineatus (u)",NA,"AMNH 113520","exsanguis",NA,NA,"Chihuahua","Yepómera",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"247","sexlineatus (u)",NA,"AMNH 113810","exsanguis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"248","sexlineatus (u)",NA,"AMNH 113820","exsanguis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"249","sexlineatus (u)",NA,"APG 250","exsanguis",NA,NA,NA,NA,"31.758410000000001","-106.45786",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"250","sexlineatus (u)",NA,"APG 308","exsanguis",NA,NA,NA,NA,"28.453240000000001","-105.81426999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"251","sexlineatus (u)","OMNH 43683","OCGR 8466","exsanguis",NA,NA,"Arizona","1.1 mi E of Dick VLS house on W Turkey Creek Rd just inside National Forest Boundary","31.864270000000001","-109.35875",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"252","sexlineatus (u)","OMNH 43684","OCGR 8467","exsanguis",NA,NA,"Arizona","1.1 mi from Dick VLS house on W Turkey Creek Rd just inside National Forest Boundary","31.864439999999998","-109.35789",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"253","sexlineatus (u)",NA,"RCT 922","exsanguis",NA,NA,"Arizona","Cave Creek Canyon, Chiricahua Mountains","31.889869999999998","-109.16909",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"254","sexlineatus (u)",NA,"RCT 960","exsanguis",NA,NA,"New Mexico","Gutierrez Canyon Open Space","35.123989999999999","-106.33823",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"255","sexlineatus (u)","LACM 134295","TC 328","exsanguis",NA,NA,"New Mexico","Las Cruces","32.312220000000003","-106.77778000000001",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"256","sexlineatus (u)","LACM 134298","TC 360","exsanguis",NA,NA,"New Mexico","Las Cruces","32.312220000000003","-106.77778000000001",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"257","sexlineatus (u)","LACM 178809","TC 929","exsanguis",NA,NA,"New Mexico","Cochiti",NA,NA,NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"258","sexlineatus (u)","MSB 98848",NA,"exsanguis",NA,NA,"New Mexico","Granite Gap","32.096939999999996","-108.97523",NA,"female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"259","sexlineatus (u)","MSB 98711",NA,"exsanguis",NA,NA,"New Mexico","Rio Bravo trail, Rio Grande Bosque","35.039270000000002","-106.66719000000001",NA,"female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"260","sexlineatus (u)","MSB 98729",NA,"exsanguis",NA,NA,"New Mexico","Rio Bravo trail, Rio Grande Bosque","35.033799999999999","-106.67072",NA,"female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"261","tesselatus","MSB 98731",NA,"exsanguis",NA,NA,"New Mexico","Rio Bravo trail, Rio Grande Bosque","35.036009999999997","-106.66921000000001",NA,"female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"262",NA,"AMNH R126826",NA,"exsanguis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"263",NA,"AMNH R128256",NA,"exsanguis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"264",NA,"UTEP19189",NA,"exsanguis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"265",NA,"UTEP21547",NA,"exsanguis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"266","cozumelus",NA,"IDF 160","G",NA,NA,"Chiapas","Camino de Paraiso Grijalva a Col. Nuevo Jordan, alrededores de la Presa La Angostura","16.197833333333335","-92.61677777777777","608",NA,NA,"UH1","RTAB003A","HiSeq 2500","AJB",NA
+"267","cozumelus","LACM 130578","TC 118","G",NA,NA,"Chiapas","16.8 mi (by Hwy 190) SE La Trinitaria, Rancho Costa Rica.","15.75","-92.15",NA,"Female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"268","cozumelus","LACM 130579","TC 119","G",NA,NA,"Chiapas","16.8 mi (by Hwy 190) SE La Trinitaria, Rancho Costa Rica.","15.75","-92.15",NA,"Female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"269","cozumelus","LACM 130580","TC 120","G",NA,NA,"Chiapas","16.8 mi (by Hwy 190) SE La Trinitaria, Rancho Costa Rica.","15.75","-92.15",NA,"Female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"270","cozumelus",NA,"UOGV 1647","G",NA,NA,"Chiapas","Nuevo Zapaluta","16.030916666666666","-92.089583333333323","776",NA,NA,"pend","RTAB2018A","HiSeq 4000","AJB","resequenced"
+"271","cozumelus",NA,"UOGV 894","G",NA,"√","Chiapas","Ejido Nuevo Zapaluta, camino a Francisco G. Mujica","16.030138888888889","-92.092999999999989","720",NA,NA,"9","RTAB003A","HiSeq 2500","AJB",NA
+"272","sexlineatus",NA,"ANMO 1498","gularis","gularis",NA,"Coahuila","Carr. Melchor Muzquiz-Monclova","27.89","-101.38927777777778","415",NA,NA,"96","RTAB003A","HiSeq 2500","AJB",NA
+"273","sexlineatus",NA,"AMNH 104632","gularis","septemvittatus",NA,"Texas","17.4 mi (by US 385) S Marathon",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"274","sexlineatus",NA,"AUHT 6145","gularis","septemvittatus",NA,"Texas",NA,"29.302399999999999","-103.1735",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"275","sexlineatus",NA,"AMH 673","gularis",NA,NA,"Hidalgo","Ejido el Piñon, 15 km. S de Jacala, Carr. México 85. Jacala-Zimapán","20.94911111","-99.21202778","1861",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"276","sexlineatus",NA,"AMNH 112056","gularis",NA,NA,"Texas","Tarrant: 2.4 mi W jctn of US 377 and Benbrook-Aledo road",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"277","sexlineatus",NA,"ANMO 1323","gularis",NA,NA,"Guanajuato","Aprox 3.5 km por carr hacia Palo Colorado a partir de la carr San Miguel de Allende-Dolores Hidalgo",NA,NA,"1934",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"278","sexlineatus",NA,"ANMO 1325","gularis",NA,NA,"Guanajuato","Galvanes (aprox 15 km por carr de Dolores Hidalgo hacia San Miguel de Allende)","21.07377778","-100.7986944","1925",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"279","sexlineatus",NA,"ANMO 1325","gularis",NA,NA,"Guanajuato","Galvanes (aprox 15 km por carr de Dolores Hidalgo hacia San Miguel de Allende)","21.073777777777778","-100.79869444444444","1925",NA,NA,"93","RTAB2018A","HiSeq 4000","AJB","resequenced"
+"280","sexlineatus",NA,"ANMO 1328","gularis",NA,NA,"Guanajuato","Galvanes (aprox 15 km por carr de Dolores Hidalgo hacia San Miguel de Allende)","21.07377778","-100.7986944","1925",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"281","sexlineatus",NA,"ANMO 1330","gularis",NA,NA,"Guanajuato","Aprox 5.4 km por carr 67 de La Sauceda hacia San Miguel de Allende (~ km 25)","20.886083330000002","-101.1418889","2045",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"282","sexlineatus",NA,"ANMO 1333","gularis",NA,NA,"Guanajuato","Aprox 5.4 km por carr 67 de La Sauceda hacia San Miguel de Allende (~ km 25)","20.886083330000002","-101.1418889","2045",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"283","sexlineatus",NA,"ANMO 1348","gularis",NA,NA,"Aguascalientes","Orillas de Rincón de Romos; en entronque de carr 45 Aguascalientes-Zacatecas con carr 66 Tepezala-Rincón de Romos","22.22591667","-102.2915556","1942",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"284","sexlineatus",NA,"ANMO 1349","gularis",NA,NA,"Aguascalientes","Orillas de Rincón de Romos; en entronque de carr 45 Aguascalientes-Zacatecas con carr 66 Tepezala-Rincón de Romos","22.22591667","-102.2915556","1942",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"285","sexlineatus",NA,"ANMO 1358","gularis",NA,NA,"Guanajuato","Carr. San Jose Iturbide-Mineral de Pozos; 5.8 km. S de Mineral de Pozos","21.163388888888889","-100.49716666666667","2141",NA,NA,"101","RTAB003A","HiSeq 2500","AJB",NA
+"286","sexlineatus",NA,"ANMO 1359","gularis",NA,NA,"Guanajuato","Carr. San Jose Iturbide-Mineral de Pozos; 5.8 km. S de Mineral de Pozos","21.16338889","-100.49716669999999","2141",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"287","sexlineatus",NA,"ANMO 1377","gularis",NA,NA,"Durango","Carr. Aldama-Cuencame; 12.5 km. N de Miguel Auze","24.394694439999999","-103.4591389","1889",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"288","sexlineatus",NA,"ANMO 1380","gularis",NA,NA,"Durango","Carr. Aldama-Cuencame; 12.5 km. N de Miguel Auze","24.394694439999999","-103.4591389","1889",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"289","sexlineatus",NA,"ANMO 1414","gularis",NA,NA,"Durango","Carr. Libre Cuencame-Torreón; 22.2 Km. N de Cuencame","25.066055559999999","-103.77561110000001","1389",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"290","sexlineatus",NA,"ANMO 1417","gularis",NA,NA,"Durango","Carr. Libre Cuencame-Torreón; 22.2 Km. N de Cuencame","25.066055555555558","-103.7756111111111","1389",NA,NA,"102","RTAB003A","HiSeq 2500","AJB",NA
+"291","sexlineatus",NA,"ANMO 1423","gularis",NA,NA,"Durango","Carr. La Union-Cuencame; 5 km. E de Diego, 8.6 km. E de Carr. 40, 25.4 km. SW de Nazareno","25.21761111","-103.5606944","1265",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"292","sexlineatus",NA,"ANMO 1426","gularis",NA,NA,"Coahuila","Carr. San Pedro-Cuatro Cienegas; 15 km. NE de San Pedro","25.870305559999998","-102.9199722","1097",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"293","sexlineatus",NA,"ANMO 1429","gularis",NA,NA,"Coahuila","Carr. San Pedro-Cuatro Cienegas; 15 km. NE de San Pedro","25.870305559999998","-102.9199722","1097",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"294","sexlineatus",NA,"ANMO 1436","gularis",NA,NA,"Coahuila","El Cañon, Carr. Cuatrociénegas-Ocampo","27.019138890000001","-102.0865","782",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"295","sexlineatus",NA,"ANMO 1450","gularis",NA,NA,"Coahuila","El Cañon de Fernández, Carr. Cuatrociénegas-Ocampo","27.023444439999999","-102.0943333","798",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"296","sexlineatus",NA,"ANMO 1453","gularis",NA,NA,"Coahuila","Carr. Cuatro Cienegas-Nueva Atalaya; frente a Poza la Becerra, 18 km. S de Cuatro Cienegas","26.872666670000001","-102.1363611","765",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"297","sexlineatus",NA,"ANMO 1454","gularis",NA,NA,"Coahuila","Carr. Cuatro Cienegas-Nueva Atalaya; frente a Poza la Becerra, 18 km. S de Cuatro Cienegas","26.872666666666667","-102.13636111111111","765",NA,NA,"107","RTAB003A","HiSeq 2500","AJB",NA
+"298","sexlineatus",NA,"ANMO 1460","gularis",NA,NA,"Coahuila","Carr. Cuatro Cienegas-Monclova; 11 km. W de Sacramento","27.028111110000001","-101.82961109999999","709",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"299","sexlineatus",NA,"ANMO 1466","gularis",NA,NA,"Coahuila","Carr. Cuatro Cienegas-Monclova; 11 km. W de Sacramento","27.028111110000001","-101.82961109999999","709",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"300","sexlineatus",NA,"ANMO 1467","gularis",NA,NA,"Coahuila","Carr. Sacramento-Monclova; 16 km. E de Sacramento","27.03616667","-101.62575","514",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"301","sexlineatus",NA,"ANMO 1471","gularis",NA,NA,"Coahuila","Carr. Sacramento-Monclova; 16 km. E de Sacramento","27.03616667","-101.62575","514",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"302","sexlineatus",NA,"ANMO 1476","gularis",NA,NA,"Coahuila","Carr. Sacramento-Monclova; 3.5 KM. E de Nadadores","27.03463889","-101.5689167","515",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"303","sexlineatus",NA,"ANMO 1485","gularis",NA,NA,"Coahuila","Carr. Melchor Muzquiz-Las Rusias; 24.1 km. NW de Melchor Muzquiz","28.047888889999999","-101.6186111","476",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"304","sexlineatus",NA,"ANMO 1496","gularis",NA,NA,"Coahuila","Carr. Melchor Muzquiz-Monclova","27.89","-101.3892778","415",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"305","sexlineatus",NA,"ANMO 1500","gularis",NA,NA,"Coahuila","Carr. Palau-Minas de Barroteran","27.740749999999998","-101.33569439999999","447",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"306","sexlineatus",NA,"ANMO 1501","gularis",NA,NA,"Coahuila","Carr. Palau-Minas de Barroteran","27.740749999999998","-101.33569439999999","447",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"307","sexlineatus",NA,"ANMO 1502","gularis",NA,NA,"Coahuila","Mota de Corona","27.428805560000001","-101.2024167","369",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"308","sexlineatus",NA,"ANMO 1504","gularis",NA,NA,"Coahuila","Mota de Corona","27.428805560000001","-101.2024167","369",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"309","sexlineatus",NA,"ANMO 1505","gularis",NA,NA,"Coahuila","Carr. Melchor Muzquiz-Las Rusias; 24.1 km. NW de Melchor Muzquiz","28.047888889999999","-101.6186111","476",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"310","sexlineatus",NA,"ANMO 1510","gularis",NA,NA,"Coahuila","Carr. Dolores-Estanque de Norias","26.371444440000001","-101.4419444","1137",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"311","sexlineatus",NA,"ANMO 1512","gularis",NA,NA,"Coahuila","Carr. Dolores-Estanque de Norias","26.371444444444446","-101.44194444444445","1137",NA,NA,"97","RTAB003A","HiSeq 2500","AJB",NA
+"312","sexlineatus",NA,"ANMO 1512","gularis",NA,NA,"Coahuila","Carr. Dolores-Estanque de Norias","26.371444440000001","-101.4419444","1137",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"313","sexlineatus",NA,"ANMO 1525","gularis",NA,NA,"Coahuila","Carr. Libre Parras-Saltillo; Alrededores de Parras","25.443666669999999","-102.1570833","1503",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"314","sexlineatus",NA,"ANMO 1526","gularis",NA,NA,"Coahuila","Carr. Libre Parras-Saltillo; Alrededores de Parras","25.443666669999999","-102.1570833","1503",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"315","sexlineatus",NA,"ANMO 1529","gularis",NA,NA,"Coahuila","Agua Nueva","25.182111110000001","-101.0968889","1941",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"316","sexlineatus",NA,"ANMO 1531","gularis",NA,NA,"Coahuila","Carr. Saltillo-Agua Nueva; 20. 5 km SE de Saltillo","25.257750000000001","-101.0912778","1929",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"317","sexlineatus",NA,"ANMO 1532","gularis",NA,NA,"Coahuila","Carr. Saltillo-Agua Nueva; 20. 5 km SE de Saltillo","25.257750000000001","-101.0912778","1929",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"318","sexlineatus",NA,"ANMO 1537","gularis",NA,NA,"Coahuila","Agua Nueva","25.182111110000001","-101.0968889","1941",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"319","sexlineatus",NA,"ANMO 1538","gularis",NA,NA,"Coahuila","Carr. Saltillo-Concepción de Oro; 39 km. NE de Concepción de Oro","24.819027779999999","-101.1101111","1748",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"320","sexlineatus",NA,"ANMO 1539","gularis",NA,NA,"Coahuila","Carr. Saltillo-Concepción de Oro; 39 km. NE de Concepción de Oro","24.819027779999999","-101.1101111","1748",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"321","sexlineatus",NA,"ANMO 1551","gularis",NA,NA,"Zacatecas","Carr. Saltillo-Concepción de Oro; 13.5 km. NE de Concepción de Oro","24.669166669999999","-101.2931944","1670",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"322","sexlineatus",NA,"ANMO 1552","gularis",NA,NA,"Zacatecas","Carr. Saltillo-Concepción de Oro; 13.5 km. NE de Concepción de Oro","24.669166669999999","-101.2931944","1670",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"323","sexlineatus",NA,"ANMO 1558","gularis",NA,NA,"Zacatecas","Carr. Concepción de Oro-Zacatecas; 3.5 km. NE de Pardita","24.317250000000001","-101.4049722","1827",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"324","sexlineatus",NA,"ANMO 1560","gularis",NA,NA,"Zacatecas","Carr. Concepción de Oro-Zacatecas; 33 km. SW de la Pardita","24.040749999999999","-101.5800278","2064",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"325","sexlineatus",NA,"ANMO 1568","gularis",NA,NA,"Zacatecas","Carr. Villa de Cos-Ilesca; 5.5 km. E de Villa de Cos","23.282972220000001","-102.2991667","1985",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"326","sexlineatus",NA,"ANMO 1570","gularis",NA,NA,"Zacatecas","Carr. Villa de Cos-Ilesca; 5.5 km. E de Villa de Cos","23.282972220000001","-102.2991667","1985",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"327","sexlineatus",NA,"ANMO 1579","gularis",NA,NA,"San Luis Potosí","Carr. Ilesca-El Barril","23.188055559999999","-102.1680278","1969",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"328","sexlineatus",NA,"ANMO 1580","gularis",NA,NA,"San Luis Potosí","Carr. Ilesca-El Barril","23.188055559999999","-102.1680278","1969",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"329","sexlineatus",NA,"ANMO 1582","gularis",NA,NA,"San Luis Potosí","Carr. Ilesca-El Barril; 22 km. SE de Villa de Cos","23.178333330000001","-102.17455560000001","1973",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"330","sexlineatus",NA,"ANMO 1583","gularis",NA,NA,"San Luis Potosí","Carr. Ilesca-El Barril; 22 km. SE de Villa de Cos","23.178333330000001","-102.17455560000001","1973",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"331","sexlineatus",NA,"ANMO 1585","gularis",NA,NA,"Zacatecas","Carr. Villa de Cos-Cañitas de Felipe Pescador","23.476083330000002","-102.3805","2040",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"332","sexlineatus",NA,"ANMO 1587","gularis",NA,NA,"Zacatecas","Carr. Villa de Cos-Cañitas de Felipe Pescador","23.476083330000002","-102.3805","2040",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"333","sexlineatus",NA,"ANMO 1591","gularis",NA,NA,"Zacatecas","Carr. Cañitas de Felipe Pescador-Fresnillo","23.576194439999998","-102.7586944","2039",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"334","sexlineatus",NA,"ANMO 1593","gularis",NA,NA,"Zacatecas","Carr. Rio Grande-Saint Alto; 8 km. SW Rio Grande","23.77636111","-103.0846667","1887",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"335","sexlineatus",NA,"ANMO 1594","gularis",NA,NA,"Zacatecas","Carr. Rio Grande-Saint Alto; 8 km. SW Rio Grande","23.77636111","-103.0846667","1887",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"336","sexlineatus",NA,"ANMO 1597","gularis",NA,NA,"Zacatecas","Carr. Rio Grande-Saint Alto; 5.7 km N Saint Alto","23.616166669999998","-103.2093611","2035",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"337","sexlineatus",NA,"ANMO 1605","gularis",NA,NA,"Zacatecas","Carr. Zacatecas-Cuencame; 9 km. NW de Fresnillo","23.22808333","-102.89283330000001","2279",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"338","sexlineatus",NA,"ANMO 1607","gularis",NA,NA,"Zacatecas","Carr. Zacatecas-Cuencame; 9 km. NW de Fresnillo","23.22808333","-102.89283330000001","2279",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"339","sexlineatus",NA,"ANMO 1609","gularis",NA,NA,"Zacatecas","Carr. Cañitas de Felipe Pescador-Fresnillo","23.576194439999998","-102.7586944","2039",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"340","sexlineatus",NA,"ANMO 1611","gularis",NA,NA,"Zacatecas","Carr. Guadalupe-Cd. Cuautemoc; 15 km. SE de Zacatecas","22.65180556","-102.4698333","2290",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"341","sexlineatus",NA,"ANMO 1614","gularis",NA,NA,"Zacatecas","Carr. Guadalupe-Cd. Cuautemoc; 15 km. SE de Zacatecas","22.65180556","-102.4698333","2290",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"342","sexlineatus",NA,"ANMO 1620","gularis",NA,NA,"Aguascalientes","Carr. Zacatecas-Aguascalientes; 11.5 km. N Rincón de Romos","22.334944440000001","-102.2927778","1971",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"343","sexlineatus",NA,"ANMO 1622","gularis",NA,NA,"Aguascalientes","Carr. Zacatecas-Aguascalientes; 11.5 km. N Rincón de Romos","22.334944440000001","-102.2927778","1971",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"344","sexlineatus",NA,"ANMO 1630","gularis",NA,NA,"Aguascalientes","Camino a Microondas Los Gallos; 6 km. E de aeropuerto de Aguascalientes","21.69863888888889","-102.26347222222222","1908","Hembra","Adulto","92","RTAB003A","HiSeq 2500","AJB",NA
+"345","sexlineatus",NA,"ANMO 1631","gularis",NA,NA,"Aguascalientes","Camino a Microondas Los Gallos; 6 km. E de aeropuerto de Aguascalientes","21.698638890000002","-102.2634722","1908",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"346","sexlineatus",NA,"ANMO 1633","gularis",NA,NA,"Aguascalientes","Camino a Microondas Los Gallos; 6 km. E de aeropuerto de Aguascalientes","21.698638890000002","-102.2634722","1908",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"347","sexlineatus",NA,"ANMO 1640","gularis",NA,NA,"Guanajuato","4.5 km. NE Juventino Rosas","20.66680556","-100.9567222","1862",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"348","sexlineatus",NA,"ANMO 1641","gularis",NA,NA,"Guanajuato","4.5 km. NE Juventino Rosas","20.66680556","-100.9567222","1862",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"349","sexlineatus",NA,"ANMO 1897","gularis",NA,NA,"Distrito Federal","Sierra de Santa Catarina","19.322833330000002","-98.979027779999996",NA,NA,NA,"UH1","RTAB003A","HiSeq 2500","AJB",NA
+"350","sexlineatus",NA,"ANMO 1898","gularis",NA,NA,"Distrito Federal","Sierra de Santa Catarina",NA,NA,NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"351","sexlineatus",NA,"ANMO 2609","gularis",NA,NA,"Guanajuato","Cerro 1 km E Irámuco","19.960238888888888","-100.92979722222222","1884","Macho","Adulto","UH2","RTAB003A","HiSeq 2500","AJB",NA
+"352","sexlineatus",NA,"ANMO 4259","gularis",NA,NA,"Jalisco","aprox. 23.6 km (en línea recta) W Villa Guerrero","22.010472","-103.818639","1880","Macho","Adulto","87","RTAB003A","HiSeq 2500","AJB",NA
+"353","sexlineatus",NA,"ANMO 4260","gularis",NA,NA,"Jalisco","aprox. 23.6 km (en línea recta) W Villa Guerrero","22.010472","-103.818639","1880","Macho","Subadulto","UH2","RTAB003A","HiSeq 2500","AJB",NA
+"354","sexlineatus",NA,"ANMO 4263","gularis",NA,NA,"Jalisco","aprox. 6.0 km (en línea recta) W Huejuquilla el Alto","22.609698000000002","-103.954398","1700","Macho","Subadulto",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"355","sexlineatus",NA,"ANMO 4750","gularis",NA,NA,NA,NA,"21.926670000000001","-102.38782",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"356","sexlineatus",NA,"ANMO 4764","gularis",NA,NA,"Jalisco","Along side of road to Ocatlan","20.36675","-102.7282",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"357","sexlineatus",NA,"ANMO 4771","gularis",NA,NA,"Jalisco","At a dump/field near an apartment complex, Zapopan, Jalisco","20.865400000000001","-103.43516",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"358","sexlineatus",NA,"ANMO 4774","gularis",NA,NA,"Michoacán","In a yard, just south of Lago de Cuitzeo, Michoacán","19.904309999999999","-101.1529",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"359","sexlineatus",NA,"ANMO 4784","gularis",NA,NA,NA,NA,"19.803629999999998","-101.1307",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"360","sexlineatus",NA,"ANMO 4786","gularis",NA,NA,"Guanajuato","At dump on side of highway, just south of Acámbaro, Guanajuato","19.986789999999999","-100.74106999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"361","sexlineatus",NA,"APG 263","gularis",NA,NA,"Chihuahua","10 km al Este de la Subestacion Moctezuma, por el camino al rancho Ojos de San Antonio","30.176459999999999","-106.34902","1465",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"362","sexlineatus",NA,"APG 266","gularis",NA,NA,NA,"Carretera Chihuahua-Ojinaga","28.957429999999999","-105.69224",NA,NA,NA,"112","RTAB003A","HiSeq 2500","AJB",NA
+"363","sexlineatus",NA,"APG 295","gularis",NA,NA,"Chihuahua","Estacion de microondas, 5.5 km al norte de la Cruz","27.913820000000001","-105.20783","1274",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"364","sexlineatus",NA,"APG 298","gularis",NA,NA,"Chihuahua","1.5 km al Este del Rancho San Carlos, camino a Sierra las Pampas","27.394490000000001","-104.86253000000001","1331",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"365","sexlineatus",NA,"APG 299","gularis",NA,NA,"Chihuahua","1.5 km al Este del Rancho San Carlos, camino a Sierra las Pampas","27.394490000000001","-104.86253000000001","1331",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"366","sexlineatus",NA,"APG 309","gularis",NA,NA,"Chihuahua","Camino a Horcasitas, a 1.3 km de la Carretera Chihuahua - Delicias","28.453240000000001","-105.81426999999999","1443",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"367","sexlineatus",NA,"CAYA 004","gularis",NA,NA,"Durango","Picardias","25.33816667","-103.4847778","1218",NA,NA,NA,"RTAB010","HiSeq 4000","AJB","This sample looks like it's a actually a tigris sample based on the RAD data"
+"368","sexlineatus",NA,"CAYA 005","gularis",NA,NA,"Coahuila","San Isidro, Carr. San pedro-Monclova","25.79701","-102.98189000000001","1101",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"369","sexlineatus",NA,"CAYA 5","gularis",NA,NA,"Coahuila","San Isidro, Carr. San pedro-Monclova","25.79701","-102.98189000000001","1101",NA,NA,"103","RTAB003A","HiSeq 2500","AJB","This sample is labeled as gularis, but appears to be a costatus based on the RAD data"
+"370","sexlineatus",NA,"CDR 255","gularis",NA,NA,"Jalisco","Tlajomulco de Zúñiga",NA,NA,NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB","Probably not a whiptail"
+"371","sexlineatus",NA,"CDR 256","gularis",NA,NA,"Jalisco","Tlajomulco de Zúñiga",NA,NA,NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB","This sample is weird, it's labeled as gularis, but seems to move around, and come out with costatus occidentalis most of the time"
+"372","sexlineatus",NA,"CPA 001","gularis",NA,NA,"Guanajuato","Mineral de Pozos","21.165613888888888","-100.50204166666667","2143",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"373","sexlineatus",NA,"CPA 002","gularis",NA,NA,"Guanajuato","Mineral de Pozos","21.225997222222219","-100.50454166666667","2244",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"374","sexlineatus",NA,"CPA 015","gularis",NA,NA,"Tamaulipas","Tula","23.021630555555554","-99.716630555555554","1197",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"375","sexlineatus",NA,"CPA 016","gularis",NA,NA,"Tamaulipas","Estacion de la Cruz","24.102816666666669","-99.175961111111121","212",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"376","sexlineatus",NA,"CPA 017","gularis",NA,NA,"Tamaulipas","Estacion de la Cruz","24.102816666666669","-99.175961111111121","211",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"377","sexlineatus",NA,"CPA 025","gularis",NA,NA,"Nuevo León","Cañon de Casa Blanca","25.653308333333332","-100.71236111111111","1164",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"378","sexlineatus",NA,"CPA 026","gularis",NA,NA,"Nuevo León","San Roberto","24.685930555555554","-100.30388888888889","1929",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"379","sexlineatus",NA,"CPA 027","gularis",NA,NA,"Nuevo León","San Roberto","24.685611111111111","-100.30435","1937",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"380","sexlineatus",NA,"CPA 034","gularis",NA,NA,"San Luis Potosí","Real de 14","23.818533333333335","-100.83204166666667","1899",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"381","sexlineatus",NA,"CPA 035","gularis",NA,NA,"San Luis Potosí","Rncho San Benito","23.798083333333334","-100.70171944444445","1718",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"382","sexlineatus",NA,"CPA 038","gularis",NA,NA,"San Luis Potosí","Yolialtl","22.891744444444445","-101.69203888888889","2087",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"383","sexlineatus",NA,"CPA 039","gularis",NA,NA,"San Luis Potosí","Yolialtl","22.895219444444443","-101.69198055555556","2078",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"384","sexlineatus",NA,"CPA 045","gularis",NA,NA,"Queretaro","El Rosario","20.517572222222221","-100.31295555555555","2093",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"385","sexlineatus",NA,"CPA 047","gularis",NA,NA,"Guanajuato","Jerónimo de Araceo","20.335449999999998","-101.18805555555556","1950",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"386","sexlineatus",NA,"CPA 047","gularis",NA,NA,"Guanajuato","Jerónimo de Araceo",NA,NA,NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"387","sexlineatus",NA,"CPA 048","gularis",NA,NA,"Guanajuato","Jerónimo de Araceo","20.335449999999998","-101.18805555555556","1950",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"388","sexlineatus",NA,"CPA 055","gularis",NA,NA,"Jalisco","Rancho 1/4 de milla","21.325638888888889","-101.88343888888889","1925",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"389","sexlineatus",NA,"CPA 056","gularis",NA,NA,"Jalisco","Rancho 1/4 de milla","21.325638888888889","-101.88343888888889","1925",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"390","sexlineatus",NA,"CPA 061","gularis",NA,NA,"Aguascalientes","El Sauz","21.883508333333332","-102.61813888888888","1942",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"391","sexlineatus",NA,"CPA 062","gularis",NA,NA,"Aguascalientes","El Sauz","21.883508333333332","-102.61813888888888","1942",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"392","sexlineatus",NA,"CPA 071","gularis",NA,NA,"Zacatecas","Chulavista","22.643494444444443","-102.96496944444445","2005",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"393","sexlineatus",NA,"CPA 072","gularis",NA,NA,"Zacatecas","Chulavista","22.643494444444443","-102.96496944444445","2005",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"394","sexlineatus",NA,"CPA 090","gularis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"395","sexlineatus",NA,"CPA 105","gularis",NA,NA,"Queretaro","El Rayo (Jalpan)","21.287030000000001","-99.489310000000003",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"396","sexlineatus",NA,"CPA 120","gularis",NA,NA,"Queretaro","El Rosario","20.517569999999999","-100.313",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"397","sexlineatus",NA,"CPA 25","gularis",NA,NA,"Nuevo León","Monterrey","25.653310000000001","-100.7124",NA,NA,NA,"113","RTAB2018A","HiSeq 4000","AJB","resequenced"
+"398","sexlineatus",NA,"CPA 28","gularis",NA,NA,"Nuevo León","San Roberto","24.685386111111111","-100.30434722222222",NA,NA,NA,"111","RTAB003A","HiSeq 2500","AJB",NA
+"399","sexlineatus",NA,"CPA 36","gularis",NA,NA,"San Luis Potosí","San Benito","23.79787","-100.7034",NA,NA,NA,"109","RTAB003A","HiSeq 2500","AJB",NA
+"400","sexlineatus",NA,"CPA 57","gularis",NA,NA,NA,NA,"21.32564","-101.88339999999999",NA,NA,NA,"110","RTAB003A","HiSeq 2500","AJB",NA
+"401","sexlineatus",NA,"DHL 409","gularis",NA,NA,"Querétaro","On 120 East of Jalpan","21.176770000000001","-99.326999999999998",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"402","sexlineatus",NA,"DHL 431","gularis",NA,NA,"Querétaro","~5 km south of La Lagunita on road to Tilaco","21.20768","-99.22833",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"403","sexlineatus",NA,"DHL 441","gularis",NA,NA,"Tamaulipas","El Salto Falls, just north of Naranjo","22.586749999999999","99.381559999999993",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"404","sexlineatus",NA,"DHL384","gularis",NA,NA,"Querétaro","Sharpton's finca, on Gto 69 north of Concá bridge","21.434750000000001","-99.615120000000005",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"405","sexlineatus",NA,"DMA 038","gularis",NA,NA,"Hidalgo","Huejutla","21.153735999999999","-98.413087000000004","140",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"406","sexlineatus",NA,"ISZ 249","gularis",NA,NA,"Jalisco","Canales","20.40583333","-102.61741670000001","1684",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"407","sexlineatus",NA,"ISZ 527","gularis",NA,NA,"Jalisco","Palos Grandes, Canales","20.402953","-102.61963799999999",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"408","sexlineatus",NA,"ISZ 574","gularis",NA,NA,"Jalisco","Cerro ""La Mesa"", Canales","20.416833333333333","-102.61924999999999","1759","Macho","Adulto","91","RTAB2018A","HiSeq 4000","AJB","resequenced"
+"409","sexlineatus",NA,"JAC 23305","gularis",NA,NA,"Jalisco","Carretera Tepetongo-Colotlán","22.34254","-103.21044000000001","1859","Macho","Adulto","UH1","RTAB003A","HiSeq 2500","AJB",NA
+"410","sexlineatus",NA,"JCHZ 049","gularis",NA,NA,"Hidalgo","Grutas de Tolantongo","20.64938888888889","-98.994916666666668","1265",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"411","sexlineatus",NA,"JCHZ 11","gularis",NA,NA,"Hidalgo","La Tuna","20.740020000000001","-99.38261",NA,NA,NA,"116","RTAB003A","HiSeq 2500","AJB",NA
+"412","sexlineatus",NA,"JEC 9711","gularis",NA,NA,"Texas","Bentsen Rio Grande Valley State Park","26.16179","-98.385379999999998",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"413","sexlineatus",NA,"JEC 9725","gularis",NA,NA,"Texas","Bentsen Rio Grande Valley State Park","26.164929999999998","-98.387219999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"414","sexlineatus",NA,"JEC 9726","gularis",NA,NA,NA,NA,"26.170770000000001","-98.381739999999994",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"415","sexlineatus",NA,"JEC 9729","gularis",NA,NA,NA,NA,"26.165420000000001","-98.386499999999998",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"416","sexlineatus",NA,"JEC 9737","gularis",NA,NA,"Texas","Resaca de la Palma","25.988630000000001","-97.564220000000006",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"417","sexlineatus",NA,"JEC 9741","gularis",NA,NA,"Texas","Bentsen Rio Grande Valley State Park","26.1783","-98.380520000000004",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"418","sexlineatus",NA,"LDOR 003","gularis",NA,NA,"Hidalgo","Santa María","20.157472222222221","-98.892861111111117","2257",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"419","sexlineatus",NA,"LDOR 028","gularis",NA,NA,"Hidalgo","Candelaria","21.081944444444446","-98.408888888888896","190",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"420","sexlineatus",NA,"LDOR 032","gularis",NA,NA,"Hidalgo","San Juan Amajac","20.711111111111112","-98.947222222222223","910",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"421","sexlineatus",NA,"NLMM 406","gularis",NA,NA,"Hidalgo","10 Km al O de Ixmiquilpan","20.507861111111112","-99.310583333333327","1847",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"422","sexlineatus",NA,"NLMM 484","gularis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"423","sexlineatus","OMNH 43069","OCGR 4942","gularis",NA,NA,"Oklahoma","West End of Sandy Sanders Wildlife Management Area","35.05155182","-99.857078549999997",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"424","sexlineatus","OMNH 43070","OCGR 4943","gularis",NA,NA,"Oklahoma","West End of Sandy Sanders Wildlife Management Area","35.05155182","-99.857078549999997",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"425","sexlineatus",NA,"OIGS 201","gularis",NA,NA,"Querétaro","Jalpan","21.201219999999999","-99.477890000000002","787",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"426","sexlineatus",NA,"OIGS 202","gularis",NA,NA,"Queretaro","Jalpan","21.201219999999999","-99.477890000000002",NA,NA,NA,"115","RTAB003A","HiSeq 2500","AJB",NA
+"427","sexlineatus",NA,"RWB 614","gularis",NA,NA,"Jalisco","8 km NW Magdalena en carr libre a Tepic",NA,NA,"1380-1412",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"428","sexlineatus",NA,"SFDG 001","gularis",NA,NA,"Hidalgo","Zimapán","20.740019444444446","-99.382605555555543","1738",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"429","sexlineatus",NA,"SFDG 040","gularis",NA,NA,"Hidalgo","Muhí","20.747555555555557","-99.363833333333332","1776",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"430","sexlineatus",NA,"SFDG 042","gularis",NA,NA,"Hidalgo","Santa María","20.148583333333335","-98.893805555555559","2284",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"431","sexlineatus",NA,"SFDG 144","gularis",NA,NA,"Hidalgo","Milpillas","20.518833333333333","-98.662527777777782","1321",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"432","sexlineatus",NA,"SFDG 374","gularis",NA,NA,"San Luis Potosí","Xilitla","21.805295999999998","-99.072529000000003",NA,NA,NA,"114","RTAB003A","HiSeq 2500","AJB",NA
+"433","sexlineatus",NA,"UOGV  1282","gularis",NA,NA,"Zacatecas","Carr. Villanueva-Zacatecas, deviación a las Ruinas de Chicomostoc 1 Km.","22.45933333","-102.8321667","2054",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"434","sexlineatus",NA,"UOGV 1276","gularis",NA,NA,"Zacatecas","Carr. Villa de Reyes-Ojuelos","21.879027780000001","-101.54247220000001","2234",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"435","sexlineatus",NA,"UOGV 1398","gularis",NA,NA,"Coahuila","Sierra de Jimulco, Ejido La Flor de Jimulco","25.189833329999999","-103.301","2002",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"436","sexlineatus",NA,"UOGV 1421","gularis",NA,NA,"Durango","Carretera La Unión-Cuencame","25.206499999999998","-103.5769722","1273",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"437","sexlineatus",NA,"UOGV 1436","gularis",NA,NA,"Coahuila","Carr. La Flor de Jimulco-El Tanque","25.091944439999999","-103.29536109999999","1304",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"438","sexlineatus",NA,"UOGV 1978","gularis",NA,NA,"Mexico","Sierra de Santa Catarina","19.322833330000002","-98.979027779999996",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"439","sexlineatus",NA,"UOGV 2026","gularis",NA,NA,"Coahuila","Cuatrocienegas","27.001055555555556","-102.0731111111111","758",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"440","sexlineatus",NA,"UOGV 2029","gularis",NA,NA,"Coahuila","Cuatrocienegas","27.112611111111111","-102.39436111111112","1291",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"441","sexlineatus",NA,"UOGV 2030","gularis",NA,NA,"Coahuila","Rancho La Casita, Sierra Madera","27.112611111111111","-102.39436111111112","1291",NA,NA,"98","RTAB003A","HiSeq 2500","AJB",NA
+"442","sexlineatus",NA,"UOGV 2031","gularis",NA,NA,"Coahuila","Antiguos Mineros","26.782694444444445","-102.00561111111111","725",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"443","sexlineatus",NA,"UOGV 2032","gularis",NA,NA,"Coahuila","Antiguos Mineros del Norte","26.782694444444445","-102.00561111111111","725",NA,NA,"106","RTAB003A","HiSeq 2500","AJB",NA
+"444","sexlineatus",NA,"UOGV 2070","gularis",NA,NA,"Coahuila","Montañas, atrás de Poza Orozco","26.866502780000001","-102.0882778","784",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"445","sexlineatus",NA,"UOGV 2071","gularis",NA,NA,"Coahuila","Montañas, atrás de Poza Orozco","26.866502780000001","-102.0882778","784",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"446","sexlineatus",NA,"UOGV 2074","gularis",NA,NA,"Coahuila","Rancho La Casita, Sierra Madera","27.11261111","-102.3943611","1291",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"447","sexlineatus",NA,"UOGV 2130","gularis",NA,NA,"Coahuila","Montañas, atrás de San José del Anteojo","26.981263890000001","-102.10735","803",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"448","sexlineatus",NA,"UOGV 2131","gularis",NA,NA,"Coahuila","Montañas, atrás de San José del Anteojo","26.981263890000001","-102.10735","803",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"449","sexlineatus",NA,"UOGV 2140","gularis",NA,NA,"Jalisco","Ixtlahuacán del Río","20.943472222222223","-103.46644444444445","1643",NA,"Jóven","UH1","RTAB003A","HiSeq 2500","AJB",NA
+"450","sexlineatus",NA,"UOGV 295","gularis",NA,NA,"Coahuila","Montañas al norte de Ejido Nueva Atalaya","26.780694440000001","-102.12472219999999","1476",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"451","sexlineatus",NA,"UOGV 523","gularis",NA,NA,"Tamaulipas","Marmolejo","24.617666669999998","-99.030194440000002","612",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"452","sexlineatus",NA,"UOGV 571","gularis",NA,NA,"Durango","Picardias","25.335361110000001","-103.4761389","1136",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"453","sexlineatus",NA,"UTEP 20329","gularis",NA,NA,NA,NA,"31.66947","-103.62607",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"454","sexlineatus",NA,"UTEP 20726","gularis",NA,NA,"Texas","Point of Rocks picnic area along State Highway 166, 9.1 miles N of (by road) northern junction with State Highway 118","30.53463","-104.06437",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"455","sexlineatus",NA,"UTEP 20964","gularis",NA,NA,NA,NA,"30.086929999999999","-100.36877",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"456","sexlineatus",NA,"UTEP 21140","gularis",NA,NA,"Texas","Reeves County","31.124400000000001","-104.0312",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"457","sexlineatus",NA,"Venado","gularis",NA,NA,"San Luis Potosí",NA,NA,NA,NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"458","sexlineatus","MSB 96644",NA,"gularis",NA,NA,"New Mexico","Mescalero Sands, 4.4 mi S, 25.0 mi E Hagerman (Jct NM 2 and NM 249/Aberdeen St)","33.052399999999999","-103.9046",NA,"female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"459",NA,NA,"ANMO 4906","gularis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"460",NA,NA,"ANMO 4907","gularis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"461","deppii",NA,"ANMO 4408","guttata",NA,NA,"Veracruz","El Riachuelo","20.422650000000001","96.959180000000003",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"462","deppii",NA,"ANMO 4412","guttata",NA,NA,"Veracruz","Raudal, aproximadamente 2 km S; campamento tortuguero","20.153459999999999","96.704790000000003",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"463","deppii",NA,"ANMO 4417","guttata",NA,NA,"Veracruz","San Jerónimo, junto al río Papaloapan","18.557300000000001","95.725650000000002",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"464","deppii",NA,"ANMO 4419","guttata",NA,NA,"Veracruz","San Jerónimo, junto al río Papaloapan","18.557300000000001","95.725650000000002",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"465","deppii",NA,"ANMO 4520","guttata",NA,NA,"Oaxaca","La Arena, Puente Rio Verde II",NA,NA,"292",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"466","deppii",NA,"ANMO 4526","guttata",NA,NA,"Oaxaca","La Arena, Puente Rio Verde II","16.330660000000002","98.014210000000006","292",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"467","deppii",NA,"ANMO 4532","guttata",NA,NA,"Oaxaca","Carretera 200, cerca de Rio Verde entre Santiago Jamiltepec and San José del Progreso","16.154920000000001","-97.731549999999999","36",NA,NA,NA,"RTAB010","HiSeq 4000","AJB","RAD data suggests this is deppii"
+"468","deppii",NA,"ANMO 4533","guttata",NA,NA,"Oaxaca","Carretera 200, cerca de Rio Verde entre Santiago Jamiltepec and San José del Progreso","16.154920000000001","-97.731549999999999","36",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"469","deppii",NA,"ANMO 4541","guttata",NA,NA,"Oaxaca","Rio Manialtepec","15.959540000000001","-97.247","32",NA,NA,NA,"RTAB010","HiSeq 4000","AJB","RAD data suggests this is deppii"
+"470","deppii",NA,"ANMO 4542","guttata",NA,NA,"Oaxaca","Rio Manialtepec","15.959540000000001","-97.247","32",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"471","deppii",NA,"ANMO 4575","guttata",NA,NA,"Oaxaca","El Lagartero (camino Puerto Escondido a Salina Cruz)",NA,NA,NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"472","deppii",NA,"ANMO 4577","guttata",NA,NA,"Oaxaca","El Lagartero (camino Puerto Escondido a Salina Cruz)",NA,NA,NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"473","deppii",NA,"ANMO 4581","guttata",NA,NA,"Oaxaca","Barra de la Cruz","15.83958","-95.967290000000006","605",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"474","deppii",NA,"ANMO 4583","guttata",NA,NA,"Oaxaca","Barra de la Cruz","15.83958","-95.967290000000006","605",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"475","deppii",NA,"ANMO 916","guttatus","flavilineatus",NA,"Chiapas","Aprox km 194.5 de la carretera Arriaga-Tapanatepec, o aprox 13 km por carretera de Arriaga hacia Tapanatepec","16.224399999999999","-94.0124",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"476","deppii",NA,"IDF 149","guttatus","flavilineatus",NA,"Chiapas","Desviación al ejido El Progreso, carretera Mex 200,  aprox6 km SE Pijijiapan","15.62263888888889","-93.129833333333323",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"477","deppii",NA,"IDF 194","guttatus","flavilineatus",NA,"Chiapas","Carretera Mex 200 Pijijiapan-Mapastepec","15.63475","-93.126305555555547",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"478","deppii",NA,"UOGV 967","guttatus","flavilineatus",NA,"Chiapas","Km 20 carretera Agrónomos Mexicanos-Tiltepec","16.412138888888887","-93.722972222222225",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"479","deppii",NA,"UOGV 968","guttatus","flavilineatus",NA,"Chiapas","km 16 carretera Mex 190 Tiltepec-Cintalapa","16.436333333333334","-93.823083333333329",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"480","deppii",NA,"UOGV 970","guttatus","flavilineatus",NA,"Chiapas","SE Cintalapa por la carretera Mex 190 rumbo a Rizo de oro","16.644861111111112","-93.763750000000002",NA,NA,NA,"UH7","RTAB2018A","HiSeq 4000","AJB",NA
+"481","deppii",NA,"UOGV 971","guttatus","flavilineatus",NA,"Chiapas","SE Cintalapa por la carretera Mex 190 rumbo a Rizo de oro","16.644861111111112","-93.763750000000002",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"482","deppii",NA,"EPR 1222","guttatus","guttatus",NA,"Veracruz","Coatzacoalcos",NA,NA,NA,NA,NA,"UH5","RTAB004","HiSeq 2500","AJB",NA
+"483","deppii",NA,"UOGV 1020","guttatus","guttatus",NA,"Veracruz","Arbolillo, playa de Alvarado","18.818916666666667","-95.835694444444442",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"484","deppii",NA,"UOGV 1251","guttatus","guttatus",NA,"Veracruz","Carr. Acayucan-Tuxtepec, Km. 128","17.90872222222222","-95.036972222222218",NA,NA,NA,"UH7","RTAB2018A","HiSeq 4000","AJB",NA
+"485","deppii",NA,"UOGV 1253","guttatus","guttatus",NA,"Veracruz","Carr. Acayucan-Tuxtepec, Km. 105","17.959444444444443","-96.236055555555552",NA,NA,NA,"UH7","RTAB2018A","HiSeq 4000","AJB",NA
+"486","deppii",NA,"UOGV 228","guttatus","guttatus",NA,"Veracruz","Barra de Tecolutla","20.459250000000001","-96.987138888888893",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"487","deppii",NA,"UOGV 231","guttatus","guttatus",NA,"Veracruz","Casitas","20.258436111111113","-96.800047222222219",NA,NA,NA,NA,"RTAB004","HiSeq 2500","AJB",NA
+"488","deppii",NA,"UOGV 2668","guttatus","guttatus",NA,"Veracruz","Unidad Medica Rural, Col. Dominguez.","18.033570000000001","-95.377264999999994",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"489","deppii",NA,"UOGV 2669","guttatus","guttatus",NA,"Veracruz","Unidad Medica Rural, Col. Dominguez.","18.033570000000001","-95.377264999999994",NA,NA,NA,"UH5","RTAB004","HiSeq 2500","AJB",NA
+"490","deppii",NA,"ANMO 1031","guttatus","immutabilis",NA,"Oaxaca","Al N de Zanatepec; camino de Zanatepec--Agua Caliente?","16.582217","-94.346318999999994",NA,NA,NA,"UH6","RTAB004","HiSeq 2500","AJB",NA
+"491","deppii",NA,"ANMO 2959","guttatus","immutabilis",NA,"Guerrero","Rio Copala en las orillas de Atrisco","16.642833333333332","-98.939000000000007",NA,NA,NA,"UH7","RTAB2018A","HiSeq 4000","AJB",NA
+"492","deppii",NA,"ANMO 2961","guttatus","immutabilis",NA,"Guerrero","Rio Copala en las orillas de Atrisco","16.642833333333332","-98.939000000000007",NA,NA,NA,"UH5-6","RTAB2018A","HiSeq 4000","AJB",NA
+"493","deppii",NA,"ANMO 3459","guttatus","immutabilis",NA,"Guerrero","Carr. Coyuca de Benítez-Atoyac de Álvarez, Pte. Coyuca I","17.008555999999999","-100.097139",NA,NA,NA,"UH1","RTAB004","HiSeq 2500","AJB",NA
+"494","deppii",NA,"ANMO 3460","guttatus","immutabilis",NA,"Guerrero","Carr. Coyuca de Benítez-Atoyac de Álvarez, Pte. Coyuca I","17.008555999999999","-100.097139",NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB","2 pares de dorsolaterales? No se distinguen bien las líneas (puntos), pero pudiera ser"
+"495","deppii",NA,"ANMO 3461","guttatus","immutabilis",NA,"Guerrero","Carr. Coyuca de Benítez-Atoyac de Álvarez, Pte. Coyuca I","17.008555999999999","-100.097139",NA,NA,NA,"UH1","RTAB2018A","HiSeq 4000","AJB","2 pares de dorsolaterales? No se distinguen bien las líneas (puntos), pero pudiera ser"
+"496","deppii",NA,"ANMO 3463","guttatus","immutabilis",NA,"Guerrero","Carr. Coyuca de Benítez-Atoyac de Álvarez, Pte. Coyuca I","17.008555999999999","-100.097139",NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB",NA
+"497","deppii",NA,"ANMO 456","guttatus","immutabilis",NA,"Guerrero","Tierra Colorada","17.165466666666667","-99.536216666666661",NA,NA,NA,"UH5","RTAB004","HiSeq 2500","AJB",NA
+"498","deppii",NA,"ANMO 462","guttatus","immutabilis",NA,"Guerrero","Mpio. Atoyac de Alvarez, Cacalutla","17.127733333333332","-100.35795",NA,NA,NA,"UH5","RTAB2018A","HiSeq 4000","AJB",NA
+"499","deppii",NA,"ANMO 883","guttatus","immutabilis",NA,"Oaxaca","Aprox 2 km por carretera hacia Sn. Pedro Orizaba desde la desviación de la carretera 200 Cruz Grande-Pinotepa Nacional (desviación @ aprox 7 km por carretera 200 de Cuajinicuilapa hacia Pinotepa Nacional)","16.450383333333335","-98.331333333333333",NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB",NA
+"500","deppii",NA,"ANMO 884","guttatus","immutabilis",NA,"Oaxaca","Aprox 2 km por carretera hacia Sn. Pedro Orizaba desde la desviación de la carretera 200 Cruz Grande-Pinotepa Nacional (desviación @ aprox 7 km por carretera 200 de Cuajinicuilapa hacia Pinotepa Nacional)","16.450383333333335","-98.331333333333333",NA,NA,NA,"UH6","RTAB004","HiSeq 2500","AJB",NA
+"501","deppii",NA,"ANMO 886","guttatus","immutabilis",NA,"Oaxaca","Aprox 3 km por carretera hacia Pastoría desde la desviación de la carretera 200 Pinotepa Nacional-Puerto Escondido (desviación @ aprox km 77 de esta carretera)","16.024483333333333","-97.583699999999993",NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB",NA
+"502","deppii",NA,"ANMO 896","guttatus","immutabilis",NA,"Oaxaca","Carretera Huatulco-Salina Cruz @ desviación hacia Sta. Cruz Bamba","16.030183333333333","-95.419766666666661",NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB",NA
+"503","deppii",NA,"ANMO 909","guttatus","immutabilis",NA,"Oaxaca","Parque Nacional Huatulco, Estación de campo “Sabanal”; aprox 2 km hacia el sur de la carretera Pochutla-Huatulco @ aprox km 245 o aprox 6 km por carretera de Huatulco hacia Pochutla","15.769783333333333","-96.194599999999994",NA,NA,NA,"UH6","RTAB004","HiSeq 2500","AJB",NA
+"504","deppii",NA,"ANMO 911","guttatus","immutabilis",NA,"Oax","Parque Nacional Huatulco, Estación de campo “Sabanal”; aprox 2 km hacia el sur de la carretera Pochutla-Huatulco @ aprox km 245 o aprox 6 km por carretera de Huatulco hacia Pochutla","15.769783333333333","-96.194599999999994",NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB",NA
+"505","deppii",NA,"ANMO 926","guttatus","immutabilis",NA,"Oaxaca","Alrededores (NE) de Zanatepec","16.486133333333335","-94.351533333333336",NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB",NA
+"506","deppii",NA,"ANMO 952","guttatus","immutabilis",NA,"Oaxaca","Santa Cruz Bamba","16.030277777777776","-95.419777777777782",NA,NA,NA,"UH3","RTAB004","HiSeq 2500","AJB",NA
+"507","deppii",NA,"IDF 172","guttatus","immutabilis",NA,"Oaxaca","1.5 km NW San Pedro Totolapan, por carretera Mex 190 Oaxaca-Juchitán","16.685277777777777","-96.320416666666659",NA,NA,NA,"UH6","RTAB004","HiSeq 2500","AJB",NA
+"508","deppii",NA,"IDF 173","guttatus","immutabilis",NA,"Oaxaca","1.5 km NW San Pedro Totolapan, por carretera Mex 190 Oaxaca-Juchitán","16.685277777777777","-96.320416666666659",NA,NA,NA,"UH6","RTAB004","HiSeq 2500","AJB",NA
+"509","deppii",NA,"IDF 58","guttatus","immutabilis",NA,"Guerrero","Carr. Libre Chilpancingo-Tierra Colorada, Km 32, 1.5 Km N de Acahuizotla","17.353750000000002","-99.481444444444449",NA,NA,NA,"UH5-6","RTAB2018A","HiSeq 4000","AJB",NA
+"510","deppii",NA,"JAC 22134","guttatus","immutabilis",NA,"Guerrero","Sierra de Malinaltepec, Rancho Viejo, 883 m.","17.037747222222222","-98.803077777777773",NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB",NA
+"511","deppii",NA,"JAC 22135","guttatus","immutabilis",NA,"Guerrero","Sierra de Malinaltepec, Rancho Viejo, 883 m.","17.037747222222222","-98.803077777777773",NA,NA,NA,"UH7","RTAB004","HiSeq 2500","AJB",NA
+"512","deppii",NA,"JAC 22198","guttatus","immutabilis",NA,"Guerrero","Carretera Mex 200-Atoyac, Los Coyotes, 34 m.","17.161858333333331","-100.43387777777778",NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB",NA
+"513","deppii",NA,"JAC 22199","guttatus","immutabilis",NA,"Guerrero","Carretera Mex 200-Atoyac, Los Coyotes, 34 m.","17.161858333333331","-100.43387777777778",NA,NA,NA,"UH3","RTAB2018A","HiSeq 4000","AJB",NA
+"514","deppii",NA,"JAC 22850","guttatus","immutabilis",NA,"Oaxaca","Municipio Santa Maria Chimalapa: Vista Hermosa: Rio Espiritu Santo, 96 m","17.036155999999998","-94.902725000000004",NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB",NA
+"515","deppii",NA,"JAC 23145","guttatus","immutabilis",NA,"Oaxaca","Area Santo Domingo Tehuantepec-Alvaro Obregon, 40 m","16.299814000000001","-95.138186000000005",NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB",NA
+"516","deppii",NA,"UOGV 780","guttatus","immutabilis",NA,"Guerrero","Carretera a Tixtla, camino de la desviación que va hacia el sur, aprox 5 km antes de llegar a Tixtla","17.537805555555558","-99.454333333333338",NA,NA,NA,"UH3","RTAB004","HiSeq 2500","AJB",NA
+"517","deppii",NA,"UOGV 786","guttatus","immutabilis",NA,"Guerrero","Agua de Obispo, carretera  libre Chilpancingo-Acapulco","17.318138888888889","-99.469499999999996",NA,NA,NA,"UH3","RTAB004","HiSeq 2500","AJB",NA
+"518","deppii",NA,"UOGV 789","guttatus","immutabilis",NA,"Guerrero","Puente La Sabana, carretera Chilpancingo-Zihuatanejo (Mex 200), pasando la desviación a Zihuatanejo","16.981722222222221","-99.82052777777777",NA,NA,NA,"UH6","RTAB004","HiSeq 2500","AJB",NA
+"519","deppii",NA,"UOGV 845","guttatus","immutabilis",NA,"Oaxaca","Aprox 28 Km E de Pinotepa Nacional, x carretera Pinotepa-Pto. Escondido (Mex 200)","16.286833333333334","-97.841888888888889",NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB",NA
+"520","deppii",NA,"ANMO 762","guttatus","Juchatengo",NA,"Oaxaca","Sierra Madre del Sur, carr 131 Oaxaca-Puerto Escondido, caserío ""La Luna"", aprox. Km 138","16.338916666666666","-97.111833333333337",NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB",NA
+"521","deppii",NA,"JAC 21355","guttatus","Juchatengo",NA,"Oaxaca","Sierra Madre del Sur, along Hwy 131, 14.3 mi S Sola de Vega, 1575m",NA,NA,NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB",NA
+"522","deppii",NA,"JJW s/n","guttatus","Juchatengo",NA,"Oaxaca","Cerro Vidrio","16.251839","-97.152321999999998",NA,NA,NA,"no","RTAB2018A","HiSeq 4000","AJB",NA
+"523","deppii",NA,"ANMO 2205","guttatus",NA,NA,"Oaxaca","San Pedro Juchatengo, terrenos aledaños al rio Atoyac","16.346666670000001","-97.092583329999997",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"524","deppii",NA,"ANMO 2211","guttatus",NA,NA,"Oaxaca","San Pedro Juchatengo, terrenos aledaños al rio Atoyac","16.346666670000001","-97.092583329999997",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"525","deppii",NA,"ANMO 4620","guttatus",NA,NA,"Guerrero","Mata de Sandía","17.685459999999999","-101.53973000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"526","deppii",NA,"ANMO 4626","guttatus",NA,NA,"Guerrero","Barra de Potosí","17.5365","-101.45307",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"527","deppii",NA,"ANMO 4633","guttatus",NA,NA,NA,NA,"17.526401","-101.253507",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"528","deppii",NA,"ANMO 4634","guttatus",NA,NA,"Guerrero","Cacalutla","17.119392999999999","-100.347971",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"529","deppii",NA,"ANMO 4637","guttatus",NA,NA,NA,NA,"17.119392999999999","-100.347971",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"530","deppii",NA,"ANMO 4670","guttatus",NA,NA,"Oaxaca",".5 km al noroeste de La Teja","16.18507","-97.713920000000002",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"531","deppii",NA,"LACM 135822","hyperythrus",NA,NA,"Baja California","Isla Montserrate","25.683350000000001","-111.03424",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"532","deppii",NA,"LACM 135826","hyperythrus",NA,NA,"Baja California","Isla San Jose","24.982240000000001","-110.61778",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"533","deppii",NA,"LACM 135830","hyperythrus",NA,NA,"Baja California","Isla San Francisquito","24.829550000000001","-110.57375",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"534","deppii",NA,"LACM 135841","hyperythrus",NA,NA,"Baja California","La Paz","24.142399999999999","-110.31086000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"535","deppii",NA,"LACM 467","hyperythrus",NA,NA,"Baja California","Isla Carmen, Puerto Balandra","25.95043","-111.16736",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"536","deppii",NA,"TC 3687 (GBP 3131)","hyperythrus",NA,NA,"California","10110 W. Lilac Rd, Escondido","33.374380000000002","-117.11090799999999",NA,NA,"joven",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"537","sexlineatus","OMNH 43083","OCGR 6219","inornatus","arizonae",NA,"Arizona","100 m south of Cochise Lake Bird Refuge; Willcox, AZ","32.13653","-109.4937",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"538","sexlineatus","OMNH 43084","OCGR 6220","inornatus","arizonae",NA,"Arizona","75 m south of cochise lake bird refuge; Willcox, AZ","32.136809999999997","-109.49347",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"539","sexlineatus","OMNH 43092","OCGR 6228","inornatus","arizonae",NA,"Arizona","1.0 mi south of Camp 9; the playa near Willcox, AZ","32.122109999999999","-109.473",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"540","sexlineatus","OMNH 43093","OCGR 6229","inornatus","arizonae",NA,"Arizona","0.8 mi south of Camp 9 near windmill; The playa near Willcox, AZ","32.123699999999999","-109.4722",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"541","sexlineatus","OMNH 43094","OCGR 6230","inornatus","arizonae",NA,"Arizona","1.2 mi south of camp 9; ""A. arizonae ridge;"" The Playa near Willcox, AZ","32.120800000000003","-109.47243",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"542","sexlineatus",NA,"UOGV 2276","inornatus","cienegae",NA,"Coahuila","Cuatro Ciénegas de Carranza","26.805666670000001","-102.0174167",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"543","sexlineatus",NA,"UOGV 2309","inornatus","cienegae",NA,"Coahuila","Cuatro Ciénegas de Carranza","26.805666670000001","-102.0174167",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"544","sexlineatus",NA,"ANMO 4202","inornatus","heptagrammus",NA,"Chihuahua","Carr. Parral-Cd. Jimenez","27.112729999999999","-105.02663","1381",NA,NA,"85","RTAB003A","HiSeq 2500","AJB",NA
+"545","sexlineatus",NA,"ANMO 1506","inornatus","octolineatus",NA,"Coahuila","Carr. Dolores-Estanque de Norias","26.371444444444446","-101.44194444444445","1137",NA,NA,"84","RTAB003A","HiSeq 2500","AJB",NA
+"546","sexlineatus",NA,"ANMO 1507","inornatus","octolineatus",NA,"Coahuila","Carr. Dolores-Estanque de Norias","26.371444444444446","-101.44194444444445","1137",NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"547","sexlineatus",NA,"ANMO 1413","inornatus","paulula","√","Durango","Carr. Libre Cuencame-Torreón; 22.2 Km. N de Cuencame","25.066055555555558","-103.7756111111111","1389",NA,NA,"83","RTAB003A","HiSeq 2500","AJB",NA
+"548","sexlineatus",NA,"ANMO 1422","inornatus","paulula",NA,"Durango","Carr. La Union-Cuencame; 5 km. E de Diego, 8.6 km. E de Carr. 40, 25.4 km. SW de Nazareno","25.217611111111111","-103.56069444444444","1265",NA,NA,"UH1","RTAB003A","HiSeq 2500","AJB",NA
+"549","sexlineatus",NA,"AMNH 112661","inornatus",NA,NA,"New Mexico","McKinley: 75.7 mi (by NM Hwy 371) N Thoreau",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"550","sexlineatus",NA,"AMNH 113854","inornatus",NA,NA,"Texas","7.3 mi (by US Hwy 385) S Marathon",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"551","sexlineatus",NA,"AMNH 113870","inornatus",NA,NA,"Arizona","9.3 mi (by US Hwy 89) S Gray Mountain",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"552","sexlineatus",NA,"AMNH 113871","inornatus",NA,NA,"Arizona","9.3 mi (by US Hwy 89) S Gray Mountain",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"553","sexlineatus",NA,"AMNH 113884","inornatus",NA,NA,"Texas","Cornudas",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"554","sexlineatus",NA,"APG 254","inornatus",NA,NA,NA,NA,"30.21106","-106.07866",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"555","sexlineatus",NA,"APG 256","inornatus",NA,NA,NA,NA,"30.21106","-106.07866",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"556","sexlineatus",NA,"APG 281","inornatus",NA,NA,NA,NA,"29.366520000000001","-104.89534999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"557","sexlineatus",NA,"APG 284","inornatus",NA,NA,NA,NA,"29.32066","-104.96623",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,"labeled as inornatus, but genetic data suggest that it is gularis"
+"558","sexlineatus",NA,"APG 287","inornatus",NA,NA,NA,NA,"29.32066","-104.96623",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"559","sexlineatus",NA,"APG 297","inornatus",NA,NA,NA,NA,"27.883880000000001","-105.22798",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"560","sexlineatus",NA,"CPA 013","inornatus",NA,NA,NA,NA,"23.021780555555555","-99.717449999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"561","sexlineatus",NA,"CPA 014","inornatus",NA,NA,"Tamaulipas","Tula","23.021130555555555","-99.717555555555563",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"562","sexlineatus",NA,"LACM 137194","inornatus",NA,NA,NA,NA,"31.912739999999999","-106.59681999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"563","sexlineatus",NA,"RCT 939","inornatus",NA,NA,NA,NA,"33.178510000000003","-107.00915000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"564","sexlineatus",NA,"RCT 957","inornatus",NA,NA,"New Mexico","near old Carthage site","33.887439999999998","-106.68353999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"565","sexlineatus",NA,"UTEP 18334","inornatus",NA,NA,"New Mexico","6.0 miles E (by road on United States Highway 60) of junction of State Highways 169/170, on W side of Magdalena, then 0.9 miles N (by road on dirt road), at abandoned ranch site","34.129719999999999","-105.144721",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"566","sexlineatus",NA,"UTEP 19148","inornatus",NA,NA,NA,NA,"32.2027","-105.08320000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"567","sexlineatus",NA,"UTEP 21089","inornatus",NA,NA,"Texas","along Ranch to Market Road 1111, ca. 19 miles N of (by road) of junction with Interstate Highway 10 in Sierra Blanca, 0.4 miles N of (by road) junction with Gunsight Road, top of rocky hill","31.423349999999999","-105.34943",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"568","sexlineatus",NA,"UTEP 21143","inornatus",NA,NA,"Texas","Hudspeth County","31.725300000000001","-105.4798",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"569","sexlineatus",NA,"UTEP 21734","inornatus",NA,NA,NA,NA,"31.93225","-104.49987",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"570","sexlineatus",NA,"UTEP 21735","inornatus",NA,NA,NA,NA,"31.846969999999999","-105.78157",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"571","sexlineatus","MVZ 252643",NA,"inornatus",NA,NA,"New Mexico","Jornada Long-term Ecological Research Station","32.522889999999997","-106.767819",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"572","sexlineatus","MVZ 252646",NA,"inornatus",NA,NA,"New Mexico","Jornada Long-term Ecological Research Station","32.522889999999997","-106.767819",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"573",NA,NA,"ANMO 4911","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"574",NA,NA,"ANMO 4912","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"575",NA,NA,"ANMO 4913","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"576",NA,NA,"ANMO 4916","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"577",NA,NA,"ANMO 4917","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"578",NA,NA,"ANMO 4918","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"579",NA,NA,"ANMO 4919","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"580",NA,NA,"ANMO 4920","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"581",NA,NA,"ANMO 4921","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"582",NA,NA,"ANMO 4922","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"583",NA,NA,"ANMO 4928","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"584",NA,NA,"ANMO 4929","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"585",NA,NA,"ANMO 4930","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"586",NA,NA,"ANMO 4931","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"587",NA,NA,"ANMO 4932","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"588",NA,NA,"ANMO 4941","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"589",NA,NA,"ANMO 4951","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"590",NA,NA,"ANMO 4952","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"591",NA,NA,"ANMO 4953","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"592",NA,NA,"ANMO 4962","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"593",NA,NA,"ANMO 4963","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"594",NA,NA,"ANMO 4964","inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"595",NA,"AMNH R126861",NA,"inornatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"596","sexlineatus?",NA,"RWM 1229","labialis",NA,NA,NA,NA,NA,NA,NA,NA,NA,"86","RTAB003A","HiSeq 2500","AJB",NA
+"597","sexlineatus",NA,"UABC 954","labialis",NA,NA,"Baja California","Guerrero Negro",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"598","sexlineatus (u)",NA,"JEC 9714","laredoensis","A",NA,"Texas","Bentsen Rio Grande Valley State Park","26.16179","-98.385379999999998",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"599","sexlineatus (u)",NA,"JEC 9724","laredoensis","A",NA,"Texas","Bentsen Rio Grande Valley State Park","26.165880000000001","-98.386139999999997",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"600","sexlineatus (u)",NA,"JEC 9730","laredoensis","A",NA,"Texas","Bentsen Rio Grande Valley State Park","26.16676","-98.385249999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"601","sexlineatus (u)",NA,"JEC 9732","laredoensis","A",NA,"Texas","Bentsen Rio Grande Valley State Park","26.16422","-98.387919999999994",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"602","sexlineatus (u)",NA,"JEC 9734","laredoensis","A",NA,"Texas","Bentsen Rio Grande Valley State Park","26.164090000000002","-98.388019999999997",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"603","sexlineatus (u)",NA,"JEC 9735","laredoensis","A",NA,"Texas","Bentsen Rio Grande Valley State Park","26.164819999999999","-98.387370000000004",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"604","sexlineatus (u)",NA,"JEC 9736","laredoensis","A",NA,"Texas","Bentsen Rio Grande Valley State Park","26.16198","-98.386859999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"605","sexlineatus (u)",NA,"JEC 9743","laredoensis","B",NA,"Texas","Bentsen Rio Grande Valley State Park","28.48977","-100.02160000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"606","sexlineatus (u)",NA,"JEC 9744","laredoensis","B",NA,"Texas","Bentsen Rio Grande Valley State Park","28.489789999999999","-100.02081",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"607","sexlineatus (u)",NA,"JEC 9745","laredoensis","B",NA,"Texas","Bentsen Rio Grande Valley State Park","28.48977","-100.02082",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"608","sexlineatus (u)",NA,"JEC 9747","laredoensis","B",NA,"Texas","Bentsen Rio Grande Valley State Park","28.490169999999999","-100.01143999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"609","cozumelus",NA,"JEC 9748","laredoensis","B",NA,NA,NA,"28.49051","-100.01036000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"610","sexlineatus",NA,"JEC 9750","laredoensis","B",NA,"Texas","Bentsen Rio Grande Valley State Park","28.493010000000002","-100.00591",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"611","sexlineatus (u)",NA,"JEC 9751","laredoensis","B",NA,"Texas","Bentsen Rio Grande Valley State Park","28.489820000000002","-100.01813",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"612","sexlineatus (u)",NA,"AMNH 116536","laredoensis",NA,NA,"Texas","along US Hwy 83 at 1 mi S Chacon Creek in SE Laredo",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"613","deppii",NA,"EPR 1209","lineatissimus","duodecemlineata",NA,"Jalisco","Peña Blanca",NA,NA,NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB","Localidad dudosa"
+"614","deppii",NA,"JAC 23652","lineatissimus","duodecemlineata",NA,"Jalisco",NA,NA,NA,NA,NA,NA,"UH6","RTAB004","HiSeq 2500","AJB",NA
+"615","deppii",NA,"OFV 771","lineatissimus","duodecemlineata",NA,"Jalisco","Chamela","19.498055999999998","-105.044444",NA,NA,NA,"UH3","RTAB004","HiSeq 2500","AJB",NA
+"616","deppii",NA,"ANMO 1185","lineatissimus","duodecemlineatus",NA,"Nayarit","Mpio San Blas, aprox 1 km E San Blas","21.519111111111108","-105.27002777777777",NA,NA,NA,"UH6","RTAB004","HiSeq 2500","AJB",NA
+"617","deppii",NA,"ANMO 1186","lineatissimus","duodecemlineatus",NA,"Nayarit","Mpio San Blas, aprox 1 km E San Blas","21.519111111111108","-105.27002777777777",NA,NA,NA,"UH6","RTAB004","HiSeq 2500","AJB",NA
+"618","deppii",NA,"JAC 23652","lineatissimus","duodecemlineatus",NA,"Jalisco",NA,NA,NA,NA,NA,NA,"UH6","RTAB004","HiSeq 2500","AJB",NA
+"619","deppii",NA,"ENS 11572","lineatissimus","duodecemlineatus/lividus",NA,"Jalisco","Barra de Navidad","19.194939999999999","-104.62966","33",NA,NA,"UH1","RTAB2018A","HiSeq 4000","AJB",NA
+"620","deppii",NA,"ANMO 1084","lineatissimus","exoristus",NA,"Michoacán","La Lagunita, sobre carr Las Cañas--Arteaga","18.431833333333334","-102.08436111111111",NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB",NA
+"621","deppii",NA,"ANMO 1090","lineatissimus","exoristus",NA,"Michoacán","El Taguazal, aprox 25 km por carr de Arteaga hacia Playa Azul","18.233916666666669","-102.24733333333333",NA,NA,NA,"UH6","RTAB004","HiSeq 2500","AJB",NA
+"622","deppii",NA,"ANMO 1091","lineatissimus","exoristus",NA,"Michoacán","El Taguazal, aprox 25 km por carr de Arteaga hacia Playa Azul","18.233916666666669","-102.24733333333333",NA,NA,NA,"UH3","RTAB004","HiSeq 2500","AJB",NA
+"623","deppii",NA,"ANMO 1100","lineatissimus","exoristus",NA,"Michoacán","Aprox 10 km por carr de Playa Azul hacia Arteaga","18.06538888888889","-102.30922222222222",NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB",NA
+"624","deppii",NA,"ANMO 1101","lineatissimus","exoristus",NA,"Michoacán","Aprox 10 km por carr de Playa Azul hacia Arteaga","18.06538888888889","-102.30922222222222",NA,NA,NA,"UH3","RTAB004","HiSeq 2500","AJB",NA
+"625","deppii",NA,"CDR 150","lineatissimus","exoristus",NA,"Michoacán","Carr. Nueva Italia-Arteaga, Puente Capirio","18.853222219999999","-102.14205560000001",NA,NA,NA,NA,"RTAB004","HiSeq 2500","AJB",NA
+"626","deppii",NA,"UOGV 1526","lineatissimus","exoristus",NA,"Michoacán","Carr. Nueva Italia-Arteaga, Puente Capirio","18.853222219999999","-102.14205560000001",NA,NA,NA,NA,"RTAB004","HiSeq 2500","AJB",NA
+"627","deppii",NA,"ANMO 475","lineatissimus","exoristus?",NA,"Michoacán","Las Calabazas, sobre carr 200 Lázaro Cárdenas-Manzanillo","18.009033333333335","-102.41113333333334",NA,NA,NA,NA,"RTAB004","HiSeq 2500","AJB",NA
+"628","deppii",NA,"ANMO 1105","lineatissimus","exoristus/lividus",NA,"Michoacán","Aprox km 151 sobre carr 200 Lázaro Cárdenas-Manzanillo","18.076305555555557","-102.76222222222222",NA,NA,NA,"UH6","RTAB2018A","HiSeq 4000","AJB","7 líneas, paravertebrales fusionadas"
+"629","deppii",NA,"ANMO 1150","lineatissimus","lineattissimus",NA,"Michoacán","Aprox km 290 sobre carr libre Armería-Manzanillo","18.933722222222222","-104.02602777777777",NA,NA,NA,"UH7","RTAB2018A","HiSeq 4000","AJB",NA
+"630","deppii",NA,"ANMO 489","lineatissimus","lineattissimus",NA,"Colima","Alrededores de Colima","19.221550000000001","-103.7471",NA,NA,NA,NA,"RTAB004","HiSeq 2500","AJB",NA
+"631","deppii",NA,"ANMO 490","lineatissimus","lineattissimus",NA,"Colima","Alrededores de Colima","19.221550000000001","-103.7471",NA,NA,NA,NA,"RTAB004","HiSeq 2500","AJB",NA
+"632","deppii",NA,"ANMO 491","lineatissimus","lineattissimus",NA,"Colima","Alrededores de Colima","19.221550000000001","-103.7471",NA,NA,NA,NA,"RTAB004","HiSeq 2500","AJB",NA
+"633","deppii",NA,"ANMO 1111","lineatissimus","lividus",NA,"Michoacán","Aprox 28 km por carr de Aquila hacia Coalcomán","18.652277777777776","-103.43538888888889",NA,NA,NA,"UH7","RTAB2018A","HiSeq 4000","AJB",NA
+"634","deppii",NA,"ANMO 1112","lineatissimus","lividus",NA,"Michoacán","Aprox 28 km por carr de Aquila hacia Coalcomán","18.652277777777776","-103.43538888888889",NA,NA,NA,"UH3","RTAB004","HiSeq 2500","AJB",NA
+"635","deppii",NA,"ANMO 1138","lineatissimus","lividus",NA,"Michoacán","Mpio Aquila, Pueblo Nuevo (sobre carr 200 La Placita-Manzanillo)","18.561299999999999","-103.59436666666667",NA,NA,NA,"UH7","RTAB004","HiSeq 2500","AJB",NA
+"636","deppii",NA,"ANMO 474","lineatissimus","lividus",NA,"Michoacán","Las Calabazas, sobre carr 200 Lázaro Cárdenas-Manzanillo","18.009033333333335","-102.41113333333334",NA,NA,NA,NA,"RTAB004","HiSeq 2500","AJB","sample failed"
+"637","deppii",NA,"ANMO 476","lineatissimus","lividus",NA,"Michoacán","Aproximadamente 1 km NE Playa Muruata","18.286283333333333","-103.34691666666667",NA,NA,NA,"UH7","RTAB004","HiSeq 2500","AJB",NA
+"638","deppii",NA,"ANMO 477","lineatissimus","lividus",NA,"Michoacán","Aproximadamente 1 km NE Playa Muruata","18.286283333333333","-103.34691666666667",NA,NA,NA,"UH7","RTAB004","HiSeq 2500","AJB",NA
+"639","deppii",NA,"ANMO 478","lineatissimus","lividus",NA,"Michoacán","Aproximadamente 1 km NE Playa Muruata","18.286283333333333","-103.34691666666667",NA,NA,NA,"UH3","RTAB004","HiSeq 2500","AJB",NA
+"640","deppii",NA,"AMNO 4601","lineattissimus",NA,NA,"Michoacán","Rio Nexpa","18.100705999999999","-102.7863",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"641","deppii",NA,"ANMO 4600","lineattissimus",NA,NA,NA,NA,"18.100705999999999","-102.7863",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"642","tigris",NA,"APG 282","marmoratus",NA,NA,NA,NA,"29.3462","-104.89677",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"643","tigris",NA,"RCT 925","marmoratus",NA,NA,"New Mexico","Between Engle and Jornada","33.118020000000001","-107.03243999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"644","tigris",NA,"RCT 954","marmoratus",NA,NA,"New Mexico","near old Carthage site","33.886830000000003","-106.68713",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"645","tigris","MSB 74831",NA,"marmoratus",NA,NA,"New Mexico","Vicinity of Granite Gap; 9.86mi S, 1.25mi W of Road Forks (jct. I-10 and NM80)","32.095005550000003","-108.9754239",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"646",NA,NA,"ANMO 4925","marmoratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"647",NA,NA,"ANMO 4926","marmoratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"648",NA,NA,"ANMO 4927","marmoratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"649",NA,NA,"ANMO 4938","marmoratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"650",NA,NA,"ANMO 4939","marmoratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"651",NA,NA,"ANMO 4940","marmoratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"652",NA,NA,"ANMO 4942","marmoratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"653",NA,NA,"ANMO 4943","marmoratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"654",NA,NA,"ANMO 4944","marmoratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"655",NA,NA,"ANMO 4945","marmoratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"656",NA,"UADZ 9755","E125","marmoratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"657",NA,"UADZ 9754","E38","marmoratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"658","sexlineatus",NA,"AER 019","maslini",NA,NA,NA,NA,"18.619444444444444","-90.760555555555555",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"659","cozumelus",NA,"AER 037","maslini",NA,NA,"Campeche","División del Norte","18.527944444444444","-90.76433333333334",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"660","cozumelus",NA,"NLMM 048","maslini",NA,NA,"Campeche","Calakmul","18.214791666666667","-89.451169444444446",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"661","cozumelus",NA,"NLMM 051","maslini",NA,NA,"Quintana Roo","Cayo Norte","19.567338888888887","-87.309241666666665",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"662","cozumelus",NA,"NLMM 057","maslini",NA,NA,"Quintana Roo","Mahahual","18.716194444444444","-87.707283333333336",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"663","cozumelus",NA,"NLMM 070","maslini",NA,NA,"Campeche","Champoton","19.315555555555555","-90.751944444444447",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"664","cozumelus",NA,"NLMM 122","maslini",NA,NA,"Quintana Roo","Puerto Morelos","20.828855555555556","-86.893583333333339",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"665","cozumelus",NA,"NLMM 123","maslini",NA,NA,NA,NA,"20.828855555555556","-86.893583333333339",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"666","cozumelus",NA,"NLMM 46","maslini",NA,NA,NA,"Majahaul","?","?",NA,NA,NA,"118","RTAB003A","HiSeq 2500","AJB",NA
+"667","cozumelus",NA,"NLMM 481","maslini",NA,NA,NA,"Escárcega","?","?",NA,NA,NA,"122","RTAB003A","HiSeq 2500","AJB",NA
+"668","cozumelus",NA,"NLMM 481","maslini",NA,NA,"Campeche","Rancho Casados","18.600305555555558","-90.701694444444442",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"669","cozumelus",NA,"NLMM 51","maslini",NA,NA,NA,"C. Norte","?","?",NA,NA,NA,"120","RTAB003A","HiSeq 2500","AJB",NA
+"670",NA,NA,"NLMM046","maslini",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"671",NA,NA,"NLMM073","maslini",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"672",NA,NA,"NLMM124","maslini",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"673",NA,NA,"NLMM482","maslini",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"674","sexlineatus",NA,"ANMO 2700","mexicanus",NA,NA,"Oaxaca","Sobre carretera San Martín Lachila-San Miguel Ejutla","16.582083333333301","-96.783694444444436","1490","Hembra","Subadulto","14","RTAB003A","HiSeq 2500","AJB",NA
+"675","sexlineatus",NA,"ANMO 939","mexicanus",NA,NA,"Oaxaca","El Moral; aprox km 175 de la carretera 135 Oaxaca-Cuicatlán","17.465667","-96.939017000000007","2180",NA,"Cría","23","RTAB003A","HiSeq 2500","AJB",NA
+"676","sexlineatus",NA,"LACM 151","mexicanus",NA,NA,"Oaxaca","ca 16 km NW Oaxaca, 1.5 mi (by Hwy 190) SE Etla.","17.14","-96.62",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"677","sexlineatus",NA,"LNG 363","mexicanus",NA,NA,"Oaxaca",NA,"17.331060000000001","-96.87433",NA,NA,NA,"89","RTAB003A","HiSeq 2500","AJB",NA
+"678","sexlineatus",NA,"UOGV 1751","mexicanus",NA,NA,"Oaxaca","9.5 km. SE de Miahuatlan","16.251666666666665","-96.553444444444438","1944","Macho","Subadulto","UH1","RTAB003A","HiSeq 2500","AJB",NA
+"679","sexlineatus",NA,"ANMO 1013","motaguae",NA,NA,"Chiapas","desviación a Sn. Isidro Gavilán sobre carr 190 Ocozocoautla-Cintalapa (aprox km 113)","16.759527777777777","-93.445861111111114","755",NA,NA,"UH1","RTAB003A","HiSeq 2500","AJB",NA
+"680","sexlineatus",NA,"ANMO 1014","motaguae",NA,NA,"Chiapas","desviación a Sn. Isidro Gavilán sobre carr 190 Ocozocoautla-Cintalapa (aprox km 113)","16.759527777777777","-93.445861111111114","755","Hembra","Adulto","12","RTAB003A","HiSeq 2500","AJB",NA
+"681","sexlineatus",NA,"MC 314","motaguae",NA,NA,"Oaxaca","Carr. Sola de Vega-Santa Cruz Zenzontepec","16.551833333333335","-97.119944444444442","1601",NA,NA,"UH2","RTAB003A","HiSeq 2500","AJB",NA
+"682","sexlineatus",NA,"UOGV 1104","motaguae",NA,NA,"Oaxaca","Primera desviación a la Izquierda, Carr. Sola de Vega-Oaxaca","16.520361111111111","-96.986611111111117","1450",NA,NA,"13","RTAB003A","HiSeq 2500","AJB",NA
+"683","sexlineatus",NA,"UOGV 861","motaguae",NA,NA,"Oaxaca","Aprox. 8 Km N Cerro del Vidrio x carretera a Oaxaca","16.287861111111113","-97.129277777777773","1510","Macho","Adulto","UH1","RTAB003A","HiSeq 2500","AJB",NA
+"684","sexlineatus","MVZ 264331",NA,"motaguae",NA,NA,"Guatemala","Turicentro Guaytan, San Agustín, Acasaguastlán","14.94049","-89.969070000000002",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"685","tesselatus",NA,"AMNH 104673","neomexicanus",NA,NA,"New Mexico","17.2 mi (by US Hwy 70) NW Lordsburg",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"686","tesselatus",NA,"AMNH 104682","neomexicanus",NA,NA,"New Mexico","Conchas Lake State Park",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"687","tesselatus","LACM 130645","TC 111","neomexicanus",NA,NA,"New Mexico","Albuquerque, Sandia Heights","35.176940000000002","-106.49083",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"688",NA,NA,"AJB141","neomexicanus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"689","tesselatus",NA,"AMNH 112643","neotesselatus",NA,NA,"Colorado","Fremont Co Sanitary Landfill, 1.0 mi N Florense",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"690","tesselatus",NA,"AMNH 112675","neotesselatus",NA,NA,"Colorado","Pueblo: historic town-site of Lime, 17.4 km S Pueblo on IS 25, then 2.1 km E (from Stem Beach exit) on Lane 25, then 300 m S toward St Charles River","38.15","104.63330000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"691",NA,NA,"LJL2021-01","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"692",NA,NA,"LJL2021-02","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"693",NA,NA,"LJL2021-03","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"694",NA,NA,"LJL2021-04","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"695",NA,NA,"LJL2021-05","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"696",NA,NA,"LJL2021-06","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"697",NA,NA,"LJL2021-08","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"698",NA,NA,"LJL2021-09","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"699",NA,NA,"LJL2021-10","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"700",NA,NA,"LJL2021-12","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"701",NA,NA,"LJL2021-13","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"702",NA,NA,"LJL2021-14","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"703",NA,NA,"LJL2021-15","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"704",NA,NA,"LJL2021-16","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"705",NA,NA,"LJL2021-17","neotesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"706","sexlineatus (u)",NA,"AMNH 102012","opatae",NA,NA,"Sonora","3.4 mi (by rd) S Villa Hidalgo (= Oputo)",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"707","sexlineatus (u)",NA,"AMNH 114406","opatae",NA,NA,"Sonora","3.4 mi (by rd) S Villa Hidalgo (=Oputo)",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"708","sexlineatus (u)",NA,"TWR 1212","opatae",NA,NA,"Sonora","along Rio Bavispe, E of jct to Villa Hidalgo and Huasabas","29.923670000000001","-109.2903",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"709","sexlineatus (u)",NA,"TWR 1213","opatae",NA,NA,"Sonora","along Rio Bavispe, E of jct to Villa Hidalgo and Huasabas","29.923670000000001","-109.2903",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"710","sexlineatus (u)",NA,"TWR 1214","opatae",NA,NA,"Sonora","along Rio Bavispe, E of jct to Villa Hidalgo and Huasabas","29.923670000000001","-109.2903",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"711","sexlineatus (u)",NA,"TWR 1215","opatae",NA,NA,"Sonora","along Rio Bavispe, E of jct to Villa Hidalgo and Huasabas","29.923670000000001","-109.2903",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"712","sexlineatus (u)",NA,"TWR 1216","opatae",NA,NA,"Sonora","along Rio Bavispe, E of jct to Villa Hidalgo and Huasabas","29.923670000000001","-109.2903",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"713","sexlineatus (u)",NA,"TWR 1218","opatae",NA,NA,"Sonora","along Rio Bavispe, E of jct to Villa Hidalgo and Huasabas","29.923670000000001","-109.2903",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"714","sexlineatus (u)",NA,"TWR 1219","opatae",NA,NA,"Sonora","along Rio Bavispe, E of jct to Villa Hidalgo and Huasabas","29.923670000000001","-109.2903",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"715","sexlineatus (u)",NA,"TWR 1220","opatae",NA,NA,"Sonora","along Rio Bavispe, E of jct to Villa Hidalgo and Huasabas","29.923670000000001","-109.2903",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"716","sexlineatus (u)",NA,"TWR 1234","opatae",NA,NA,"Sonora","along Rio Bavispe, E of jct to Villa Hidalgo and Huasabas","29.923670000000001","-109.2903",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"717","sexlineatus (u)",NA,"TWR 1235","opatae",NA,NA,"Sonora","29 km N of jct to Villa Hidalgo and Huasabas, along road to Villa Hidalgo, just south of town","30.149170000000002","-109.3197",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"718","sexlineatus (u)",NA,"TWR 1236","opatae",NA,NA,"Sonora","29 km N of jct to Villa Hidalgo and Huasabas, along road to Villa Hidalgo, just south of town","30.149170000000002","-109.3197",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"719","sexlineatus (u)",NA,"TWR 1262","P",NA,NA,"Sonora","11 km N of Huachinera, along Rio Bavispe","30.283329999999999","-108.9345",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"720","sexlineatus (u)",NA,"TWR 1263","P",NA,NA,"Sonora","11 km N of Huachinera, along Rio Bavispe","30.283329999999999","-108.9345",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"721","sexlineatus (u)",NA,"TWR 1264","P",NA,NA,"Sonora","11 km N of Huachinera, along Rio Bavispe","30.283329999999999","-108.9345",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"722","sexlineatus (u)",NA,"TWR 1265","P",NA,NA,"Sonora","11 km N of Huachinera, along Rio Bavispe","30.283329999999999","-108.9345",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"723","sexlineatus (u)",NA,"TWR 1266","P",NA,NA,"Sonora","11 km N of Huachinera, along Rio Bavispe","30.283329999999999","-108.9345",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"724","sexlineatus (u)",NA,"TWR 1285","P",NA,NA,"Sonora","just N of Bavispe, near Rio Bavispe","30.48517","-108.9567",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"725","sexlineatus (u)",NA,"TWR 1286","P",NA,NA,"Sonora","just N of Bavispe, near Rio Bavispe","30.48517","-108.9567",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"726","sexlineatus",NA,"RCT 964","pai",NA,NA,"Arizona","El Oso Road, Above Roosevelt Lake","33.738140000000001","-111.33776",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"727","sexlineatus",NA,"RCT 965","pai",NA,NA,"Arizona","El Oso Road, Above Roosevelt Lake","33.735109999999999","-111.33888",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"728","sexlineatus",NA,"ANMO 4006","parvisocius",NA,NA,"Puebla",NA,NA,NA,NA,"Macho","Adulto","5","RTAB003A","HiSeq 2500","AJB",NA
+"729","sexlineatus",NA,"ANMO 4007","parvisocius",NA,NA,"Puebla",NA,"?","?",NA,"Hembra",NA,"UH2","RTAB003A","HiSeq 2500","AJB",NA
+"730","sexlineatus","LACM 130544","TC 147","parvisocius",NA,NA,"Oaxaca","16.5 mi. (by Hwy 131) N Cuicatlan, at Rio Salado","17.899999999999999","-97.01",NA,"Male",NA,NA,"RTAB2018A","HiSeq 4000","AJB","SVL=75mm"
+"731","sexlineatus",NA,"UOGV 1085","parvisocius",NA,"√","Oaxaca","Rio Grande, al E de Cuicatlan","17.77375","-96.955250000000007","594","Macho",NA,"4","RTAB2018A","HiSeq 4000","AJB","resequenced"
+"732","cozumelus",NA,"CY 7","rodecki",NA,NA,NA,NA,"21.480261111111108","-86.789333333333332",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"733","cozumelus",NA,"NLMM 020","rodecki",NA,NA,"Quintana Roo","Puerto Juárez","21.181866666666668","-86.807175000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"734","cozumelus",NA,"NLMM 021","rodecki",NA,NA,"Quintana Roo","Puerto Juárez","21.181866666666668","-86.807175000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"735","cozumelus",NA,"NLMM 025","rodecki",NA,NA,"Quintana Roo","Puerto Juárez","21.181866666666668","-86.807175000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"736","cozumelus",NA,"NLMM 026","rodecki",NA,NA,NA,NA,"21.181866666666668","-86.807175000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"737","cozumelus",NA,"NLMM 027","rodecki",NA,NA,NA,NA,"21.181866666666668","-86.807175000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"738","cozumelus",NA,"NLMM 096","rodecki",NA,NA,"Quintana Roo","Isla Contoy","21.480261111111108","-86.789333333333332",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"739","cozumelus",NA,"NLMM 100","rodecki",NA,NA,"Quintana Roo","Isla Contoy","21.480261111111108","-86.789333333333332",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"740","cozumelus",NA,"NLMM 102","rodecki",NA,NA,"Quintana Roo","Isla Contoy","21.480261111111108","-86.789333333333332",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"741","cozumelus",NA,"NLMM 32","rodecki",NA,NA,"Quintana Roo","Puerto Juárez","?","?",NA,NA,NA,"117","RTAB003A","HiSeq 2500","AJB",NA
+"742","cozumelus",NA,"NLMM 91","rodecki",NA,NA,NA,"Isla Contoy","?","?",NA,NA,NA,"121","RTAB003A","HiSeq 2500","AJB",NA
+"743",NA,NA,"CY8","rodecki",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"744",NA,NA,"NLMM017","rodecki",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"745",NA,NA,"NLMM018","rodecki",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"746",NA,NA,"NLMM019","rodecki",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"747",NA,NA,"NLMM025","rodecki",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"748",NA,NA,"NLMM100","rodecki",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"749","sexlineatus",NA,"ANMO 2155","sackii","gigas",NA,"Puebla","4.8 km (por aire) ESE Tecali de Herrera, paraje “El Sifón” sobre carretera Tecali de Herrera-Ahuatepec","18.86802777777778","-97.945972222222224","1948",NA,NA,"UH1","RTAB003A","HiSeq 2500","AJB",NA
+"750","sexlineatus",NA,"ANMO 2907","sackii","gigas","√","Morelos","2.6 km SE de Ahuehuetzingo, lado de un rio","18.673527777777799","-99.332444444444434","912","Hembra","Adulto","20","RTAB003A","HiSeq 2500","AJB",NA
+"751","sexlineatus",NA,"ANMO 2908","sackii","gigas",NA,"Morelos","2.6 km SE de Ahuehuetzingo, lado de un rio","18.673527777777799","-99.332444444444434","912","Hembra","Adulto","pend","RTAB003A","HiSeq 2500","AJB",NA
+"752","sexlineatus",NA,"ANMO 3801","sackii","gigas",NA,"Puebla","1.5 km NW Pueblo de Galeana","18.266400000000001","-98.108159999999998","1446","Macho","Adulto","17","RTAB2018A","HiSeq 4000","AJB","resequenced"
+"753","sexlineatus",NA,"ISZ 329","sackii","gigas",NA,"Puebla","Carretera Huajuapan - Izúcar de Matamoros","18.183833333333332","-98.041638888888883","1189","Macho","Adulto",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"754","sexlineatus",NA,"OHG 36","sackii","gigas",NA,"Guerrero","Presa El Caracol","?","?",NA,NA,NA,"UH1","RTAB003A","HiSeq 2500","AJB",NA
+"755","sexlineatus",NA,"ANMO 2649","sackii","sackii",NA,"Oaxaca","Sobre carretera San Martín Lachila-San Miguel Ejutla","16.582083333333301","-96.783694444444436","1490","Hembra","Adulto","6","RTAB003A","HiSeq 2500","AJB",NA
+"756","sexlineatus",NA,"ANMO 3936","sackii","sackii",NA,"Puebla",NA,"18.329809999999998","-97.258189999999999",NA,NA,NA,"8","RTAB003A","HiSeq 2500","AJB",NA
+"757","sexlineatus",NA,"UOGV 1090","sackii","sackii",NA,"Oaxaca","Desviación a Yagul, Carr. Oaxaca-Mitla, 13 Km. N de Mitla","16.945611111111113","-96.454750000000004","1641",NA,NA,"7","RTAB003A","HiSeq 2500","AJB",NA
+"758","sexlineatus",NA,"ANMO 4467","sackii",NA,NA,"Puebla","San Luis Temalacayuca, 2 km NE","18.616019999999999","-97.541489999999996","1964",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"759","sexlineatus",NA,"ANMO 4496","sackii",NA,NA,"Oaxaca","Camino de Huajuapan de León to Santiago Juxtlahuaca","17.756799999999998","-97.806290000000004",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"760","sexlineatus",NA,"ANMO 4498","sackii",NA,NA,"Oaxaca","Camino de Huajuapan de León to Santiago Juxtlahuaca","17.756799999999998","-97.806290000000004",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"761","sexlineatus","LACM 130560","TC 148","sackii",NA,NA,"Oaxaca","16.5 mi. (by Hwy 131) N Cuicatlan, at Rio Salado","17.899999999999999","-97.01",NA,"Male",NA,"PC 678","RTAB2018A","HiSeq 4000","AJB","SVL=125mm"
+"762","sexlineatus","LACM 130562","TC 150","sackii",NA,NA,"Oaxaca","16.5 mi. (by Hwy 131) N Cuicatlan, at Rio Salado","17.899999999999999","-97.01",NA,"Male",NA,NA,"RTAB2018A","HiSeq 4000","AJB","SVL=132mm"
+"763","sexlineatus","LACM 130568","TC 154","sackii",NA,NA,"Guerrero","1.2 mi. (by Hwy 95) S jct. With rd to Mezcala","17.91","-99.59",NA,"Male",NA,"PC 695","RTAB2018A","HiSeq 4000","AJB",NA
+"764","sexlineatus","LACM 130569","TC 155","sackii",NA,NA,"Guerrero","1.2 mi. (by Hwy 95) S jct. With rd to Mezcala","17.91","-99.59",NA,"Male",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"765","sexlineatus","LACM 130570","TC 156","sackii",NA,NA,"Guerrero","1.2 mi. (by Hwy 95) S jct. With rd to Mezcala","17.91","-99.59",NA,"Male",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"766",NA,NA,"ANMO 4901","scalaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"767",NA,NA,"ANMO 4902","scalaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"768",NA,NA,"ANMO 4903","scalaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"769",NA,NA,"ANMO 4947","scalaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"770",NA,NA,"ANMO 4949","scalaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"771",NA,NA,"ANMO 4956","scalaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"772",NA,NA,"ANMO 4957","scalaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"773",NA,NA,"ANMO 4958","scalaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"774",NA,NA,"ANMO 4959","scalaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"775",NA,NA,"ANMO 4960","scalaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"776",NA,NA,"ANMO 4966","scalaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"777",NA,"AMNH R129176",NA,"scalaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"778","sexlineatus",NA,"AMNH 104629","sexlineatus","viridis",NA,"Texas","Brooks: 7.1 mi (by US 281) S Falfurrias",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"779","sexlineatus",NA,"LSU 18938","sexlineatus",NA,NA,"Louisiana",NA,NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"780","sexlineatus","OMNH 44303","OCGR 12740","sexlineatus",NA,NA,"Oklahoma","Fobb Bottom WMA; down road to lake @ left fork","33.892879999999998","-96.865610000000004",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"781","sexlineatus","OMNH 46491","OCGR 19064","sexlineatus",NA,NA,"Oklahoma","Black Mesa State Park vicinity","36.847498000000002","-102.882448",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB","The RAD data looks like it's actually a tigris sample?"
+"782","sexlineatus","OMNH 43072","OCGR 4952","sexlineatus",NA,NA,"Oklahoma","Atoka Wildlife Management Area, Butterfield Stage Road","34.51229","-96.002809999999997",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"783","sexlineatus","OMNH 42825","OCGR 7048","sexlineatus",NA,NA,"Oklahoma","Packsaddle WMA, Array A","35.873930000000001","-99.680229999999995",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"784","sexlineatus","CAS 214323","PGF 31","sexlineatus",NA,NA,"Florida","Rd 358 at Boat Creek","29.676888888899999","-83.34075",NA,"M","Adult",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"785","sexlineatus","LACM 134450","TC 405","sexlineatus",NA,NA,"Florida","Tampa, along RR tracks just S. of Univ. of So. Fla. Campus","28.052569999999999","-82.420379999999994",NA,"Male",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"786","sexlineatus",NA,"UTEP 19949","sexlineatus",NA,NA,NA,NA,"31.091349999999998","-86.189369999999997",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"787","sexlineatus",NA,"UTEP 19952","sexlineatus",NA,NA,NA,NA,"31.352519999999998","-88.673450000000003",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"788","sexlineatus",NA,"UTEP 20927","sexlineatus",NA,NA,NA,NA,"35.535229999999999","-91.89255",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"789","sexlineatus",NA,"UTEP 21736","sexlineatus",NA,NA,"Texas","ca. 1/3 km (air) E Mobeetie, old Ruth Hogan Ranch","35.510680000000001","-100.42252000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"790","sexlineatus","CAS 210988",NA,"sexlineatus",NA,NA,"Florida","Inverness, Withlacoochee Walking Trail","28.838027777800001","-82.329805555600004",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"791","sexlineatus (u)",NA,"AJB 132","sonorae",NA,NA,"California","Sacramento",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"792","sexlineatus (u)",NA,"AMNH 111468","sonorae",NA,NA,"Sonora","25.9 mi (by rd) S Arizpe (=0.8 mi by rd N Banámichi)",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"793","sexlineatus (u)",NA,"AMNH 111470","sonorae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"794","sexlineatus (u)",NA,"AMNH 111524","sonorae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"795","sexlineatus (u)",NA,"AMNH 111537","sonorae",NA,NA,"Arizona","road in Bear Creek Canyon, SW slopes Huachuca Mts",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"796","sexlineatus (u)",NA,"AMNH 111568","sonorae",NA,NA,"Arizona","Santa Teresa Mts, 9 mi (airline) N Klondyke",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"797","sexlineatus (u)",NA,"AMNH 111670","sonorae",NA,NA,"New Mexico","0.4 mi (by rd) NE Redrock",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"798","sexlineatus (u)",NA,"AMNH 111676","sonorae",NA,NA,"Arizona","Bear Valley, 6 mi (by US Hwy 89) N and 17.4 mi (by rd) W Nogales",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"799","sexlineatus (u)",NA,"AMNH 112014","sonorae",NA,NA,"Sonora","3.4 mi (by rd) S Villa Hidalgo (=Oputo)",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"800","sexlineatus (u)",NA,"AMNH R 131446","sonorae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"801","sexlineatus (u)",NA,"GBP 3592","sonorae",NA,NA,"California","24301 El Toro Road, Laguna Woods, Orange County","33.609859","-117.33168999999999",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"802","sexlineatus (u)",NA,"GBP 3593","sonorae",NA,NA,"California","24301 El Toro Road, Laguna Woods, Orange County","33.609859","-117.33168999999999",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"803","sexlineatus (u)",NA,"LACM 567","sonorae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"804","sexlineatus (u)","OMNH 43143","OCGR 6279","sonorae",NA,NA,"Arizona","0.8 mi northeast of Dick's house; Turkey Pen Rd","31.525030000000001","-109.21943",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"805","sexlineatus (u)","OMNH 43145","OCGR 6282","sonorae",NA,NA,"Arizona","Cienega Ranch; north end; eastern slope of hill at base of mtn; 1.25 mi north of water tank","32.099029999999999","-109.30898000000001",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"806","sexlineatus (u)","OMNH 43724","OCGR 8511","sonorae",NA,NA,"Arizona","1.6 mi W of Hwy 90 and Port Rd","31.88965","-110.36855",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"807","sexlineatus (u)","OMNH 43725","OCGR 8512","sonorae",NA,NA,"Arizona","1.6 mi W of Hwy 90 and Port Rd","31.895250000000001","-110.36772000000001",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"808","sexlineatus (u)","OMNH 43726","OCGR 8518","sonorae",NA,NA,"Arizona","New Mexico and Arizona Stateline on Guadalupe Ranch","31.350490000000001","-109.05003000000001",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"809","sexlineatus (u)",NA,"RCT 904","sonorae",NA,NA,"Arizona","Sabino Canyon","32.304819999999999","-110.81111",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"810","sexlineatus (u)",NA,"RCT 905","sonorae",NA,NA,"Arizona","Sabino Canyon","32.308509999999998","-110.81977999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"811","sexlineatus (u)",NA,"RCT 909","sonorae",NA,NA,"Arizona","Upper White Rock Campground","31.393619999999999","-111.0094",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"812","sexlineatus (u)",NA,"RCT 914","sonorae",NA,NA,NA,NA,"31.400369999999999","-111.08884999999999",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"813","sexlineatus (u)",NA,"RCT 924","sonorae",NA,NA,"Arizona","Cave Creek Canyon, Chiricahua Mountains","31.884080000000001","-109.178",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"814","sexlineatus (u)",NA,"RCT 966","sonorae",NA,NA,"Arizona","El Oso Road, Above Roosevelt Lake","33.726570000000002","-111.34412",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"815","sexlineatus (u)",NA,"RCT 967","sonorae",NA,NA,NA,NA,"33.731119999999997","-111.34505",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"816","sexlineatus (u)","LACM 134381","TC 334","sonorae",NA,NA,"Sonora","Huasabas (to Rio)","29.91","-109.3",NA,NA,NA,"PC 827","RTAB2018A","HiSeq 4000","AJB",NA
+"817","sexlineatus (u)","LACM 134379","TC 363","sonorae",NA,NA,"Arizona","ca 7 km (air) ESE Ruby","31.4370446","-111.1695452","1350",NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"818","sexlineatus (u)","LACM 134373","TC 386","sonorae",NA,NA,"Arizona","3 km (air) W Molino Basin Campground, old Federal Honor Camp ruins S of Catalina Hwy",NA,NA,"1480",NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"819","sexlineatus","LACM 134316","TC 396","sonorae",NA,NA,"New Mexico","Frisco Hot Springs","33.237220000000001","-108.88111000000001",NA,NA,NA,"PC 890","RTAB2018A","HiSeq 4000","AJB",NA
+"820","sexlineatus (u)","LACM 134317","TC 397","sonorae",NA,NA,"New Mexico","Frisco Hot Springs","33.237220000000001","-108.88111000000001",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"821","sexlineatus (u)","LACM 135460","TC 534","sonorae",NA,NA,"Sonora","Huasabas (to Rio)","29.91","-109.3",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"822",NA,NA,"GBP4366","sonorae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"823",NA,NA,"GBP4368","sonorae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"824",NA,NA,"GBP4509","sonorae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"825",NA,"AMNH R126981",NA,"sonorae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"826",NA,"AMNH R133231",NA,"sonorae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"827","sexlineatus",NA,"ANMO 2164","sp",NA,"√","Oaxaca","Santiago Yolomécatl","17.476222222222201","-97.562888888888892","2157","Macho","Adulto","21","RTAB003A","HiSeq 2500","AJB",NA
+"828","sexlineatus",NA,"ANMO 2165","sp",NA,NA,"Oaxaca","Santiago Yolomécatl","17.47625","-97.562916666666666","2157","Macho","Adulto",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"829","sexlineatus",NA,"ANMO 2629","sp",NA,NA,"Oaxaca","Aproximadamente 1 km N Tejupan","17.6785","-97.464611111111111","2230","Macho","Adulto","UH2","RTAB003A","HiSeq 2500","AJB",NA
+"830","sexlineatus",NA,"ANMO 2630","sp",NA,NA,"Oaxaca","Aproximadamente 1 km N Tejupan","17.6785","-97.464611111111111","2230","Macho","Subadulto","22","RTAB003A","HiSeq 2500","AJB",NA
+"831","sexlineatus",NA,"ANMO 4481","sp",NA,NA,"Oaxaca","Orillas de Yanhuitlán; El Jazmín, Rancho Nuevo Amanecer","17.498000000000001","-97.348470000000006","2175",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"832","sexlineatus",NA,"ANMO 4482","sp",NA,NA,"Oaxaca","Orillas de Yanhuitlán; El Jazmín, Rancho Nuevo Amanecer","17.498000000000001","-97.348470000000006","2175",NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"833","sexlineatus",NA,"ANMO 4494","sp",NA,NA,"Oaxaca","Camino de Huajuapan de León to Santiago Juxtlahuaca","17.756799999999998","-97.806290000000004",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"834","sexlineatus",NA,"ANMO 4499","sp",NA,NA,"Oaxaca","Camino de Huajuapan de León to Santiago Juxtlahuaca","17.756799999999998","-97.806290000000004",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"835","sexlineatus",NA,"ANMO 4500","sp",NA,NA,"Oaxaca","Camino de Huajuapan de León to Santiago Juxtlahuaca","17.756799999999998","-97.806290000000004",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"836","sexlineatus",NA,"ANMO 4501","sp",NA,NA,"Oaxaca","Camino de Huajuapan de León to Santiago Juxtlahuaca","17.756799999999998","-97.806290000000004",NA,NA,NA,NA,"RTAB010","HiSeq 4000","AJB",NA
+"837","tesselatus",NA,"RCT 928","tesselatus",NA,NA,NA,NA,"33.120780000000003","-107.03346000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"838","tesselatus","MSB 98748",NA,"tesselatus",NA,NA,"New Mexico","Canoncito de Puertocito de Lemitar","34.145740000000004","-106.96680000000001",NA,"female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"839","tesselatus","MSB 98749",NA,"tesselatus",NA,NA,"New Mexico","Canoncito de Puertocito de Lemitar","34.145740000000004","-106.97063",NA,"female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"840",NA,NA,"ANMO 4950","tesselatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"841","tigris",NA,"RCT 901","tigris","punctilineatus",NA,"Arizona","vicinity of Ajo","32.382800000000003","-112.78028",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"842","tigris",NA,"LACM 135843","tigris",NA,NA,"Baja California","Isla San Jose","24.982240000000001","-110.61778",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"843","tigris",NA,"LACM 191","tigris",NA,NA,"Sonora","Isla San Pedro Nolasco","27.97","-111.38",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"844","tigris","LACM185973","LACM 2141","tigris",NA,NA,"California","Happy Camp Canyon, dry main wash, 1.35 canyon km above upper end of unnamed spring","34.342","-118.8436",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"845","tigris",NA,"LACM 2289","tigris",NA,NA,"California","Pisgah Crater","34.748989999999999","-116.38002",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"846","tigris","LACM186934","LACM 2696","tigris",NA,NA,"California","Pianka Mojave field site; vicinity of Dominion St. at Rosewood Blvd, NE of town of Mojave","35.07949","-118.132073",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"847","tigris","LACM 131854","LACM 274","tigris",NA,NA,"Sonora","Bahia San Carlos","27.86667","-112.76667",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"848","tigris",NA,"LACM 2791","tigris",NA,NA,"California","Pianka Searchlight field site; SE of intersection of Loran Station Road and Hwy 95","35.30513","-114.86485",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"849","tigris","LACM 188085","LACM 3476","tigris",NA,NA,NA,NA,"36.31453","-116.23794",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"850","tigris","LACM 188942","LACM 4096","tigris",NA,NA,"California","Kingston Mountains, LB Wash","35.79729","-115.98475",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"851","tigris","LACM 188976","LACM 4130","tigris",NA,NA,"California","Pianka Grapevine field site, along Hwy 267","37.089179999999999","-117.24008",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"852","tigris",NA,"LACM 424","tigris",NA,NA,"Sonora","Isla Tiburon","28.99167","-112.34333",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"853","tigris",NA,"LACM 442","tigris",NA,NA,"Sonora","Isla San Pedro Martir","28.69995","-112.57584",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"854","tigris",NA,"LACM 445","tigris",NA,NA,"Sonora","Isla San Esteban","28.69995","-112.57584",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"855","tigris",NA,"LACM 4823","tigris",NA,NA,"California","Panamint Valley, vicinity of interesection of Indian Ranch Rd and Surprise Canyon Rd (ca 3.4 km N of Ballarat)","36.08274","-117.21017",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"856","tigris","LACM 189970","LACM 4852","tigris",NA,NA,NA,NA,"35.1994","-117.4867",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"857","tigris","LACM 130185","LACM 81","tigris",NA,NA,"Baja California","Isla Salsipuedes","28.72501","-112.95481",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"858","tigris","OMNH 43747","OCGR 8538","tigris",NA,NA,"Arizona","2.5 mi NW of E San Pedro Rd and Hwy 80","31.816800000000001","-110.18687",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"859","tigris","LACM 186643","TC 2303 (GBP 1762)","tigris",NA,NA,"California","vicinity of Vulcan Mine, Providence Mountains","34.921750000000003","115.57561",NA,"Male",NA,NA,"RTAB2018A","HiSeq 4000","AJB","SVL = 98 mm; weight = 24 g"
+"860","tigris","LACM 186962","TC 2755 (GBP 2243)","tigris",NA,NA,"California","Pianka Twentynine Palms field site; vicinity of Nordyke Rd., N. of Twentynine Palms Hwy (Hwy 62)","34.130099999999999","-115.81596999999999",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB","SVL = 66 mm; weight = 6.5 g"
+"861","tigris","LACM 186965","TC 2836 (GBP 2325)","tigris",NA,NA,"California","wash, NE side of Kingston Mtns, along Excelsior Mine Rd.","35.77046","-115.84174",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB","SVL= 80mm; Weight= 11.1g"
+"862","tigris","LACM 135981","TC 563 (CSL 7012)","tigris",NA,NA,"Texas","El Paso 7804 Bois D' Arc","31.759080000000001","-106.35182","1870","Female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"863","tigris",NA,"UOGV 2905","tigris",NA,NA,"Sonora","Reserva El Pinacate",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"864","sexlineatus (u)",NA,"APG 255","uniparens",NA,NA,"Chihuahua","Rancho Ojos de San Antonio, Chihuahua","30.21106","-106.07866",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"865","sexlineatus (u)",NA,"APG 259","uniparens",NA,NA,"Chihuahua","Rancho Ojos de San Antonio, Chihuahua","30.21106","-106.07866",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"866","sexlineatus (u)",NA,"LACM 305","uniparens",NA,NA,"New Mexico","S of Deming on St. Hwy 11","32.26861","-107.75806",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"867","sexlineatus (u)",NA,"LACM 565","uniparens",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"868","sexlineatus (u)","OMNH 43361","OCGR 7510","uniparens",NA,NA,"Arizona","off ramp of W I-10 and HWY 191 before heading N on 191. 0.2 mi NE of camp 7 (state land access rd cochise co, right before heading N on 191. 0.4 mi W of intersection)","32.237029999999997","-109.39205",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"869","sexlineatus (u)","OMNH 43783","OCGR 8548","uniparens",NA,NA,"Arizona","0.2 mi NW of Hwy 90 and Port Rd","31.895790000000002","-110.34343",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"870","sexlineatus (u)","OMNH 43782","OCGR 8560","uniparens",NA,NA,"Arizona","0.6 mi SW of Hwy 90 and Port Rd","31.888559999999998","-110.34887999999999",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"871","sexlineatus (u)","OMNH 43784","OCGR 8564","uniparens",NA,NA,"Arizona","0.7 mi SW of Hwy 90 and Port Rd","31.887450000000001","-110.35905",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"872","sexlineatus (u)",NA,"RCT 918","uniparens",NA,NA,"Arizona","Near Portal, Chiricahua Mountains","31.92972","-109.13041",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"873","sexlineatus (u)",NA,"RCT 948","uniparens",NA,NA,"New Mexico","near Socorro","34.119289999999999","-106.88612000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"874","sexlineatus (u)",NA,"RCT 949","uniparens",NA,NA,"New Mexico","near Socorro","34.119289999999999","-106.88160000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"875","sexlineatus","LACM 183403","TC 566 (SFH 4719)","uniparens",NA,NA,"New Mexico","vic. Gila River, 3/4 mi. W River side",NA,NA,NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"876","sexlineatus (u)",NA,"UTEP 19558","uniparens",NA,NA,NA,NA,"33.099820000000001","-109.07023",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"877","sexlineatus (u)",NA,"UTEP 20720","uniparens",NA,NA,"New Mexico","along State Highway 9, 4.9 miles W of (by road) junction with State Highway 338 in Animas","31.943370000000002","-108.88908000000001",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"878","sexlineatus (u)",NA,"UTEP 21551","uniparens",NA,NA,"Texas","El Paso, along Dyer Street, 0.4 road miles NE junction with Ashley Road","31.95262","-106.3631",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"879","sexlineatus (u)","MSB 98744",NA,"uniparens",NA,NA,"New Mexico","Box Canyon, near Socorro","34.003959999999999","-106.99154",NA,"female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"880","sexlineatus (u)","MSB 98728",NA,"uniparens",NA,NA,"New Mexico","Rio Bravo trail, Rio Grande Bosque","35.032150000000001","-106.67072",NA,"female",NA,NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"881","sexlineatus (u)",NA,"AMNH 113816","velox",NA,NA,"New Mexico","Santa Rosa Lake State Park",NA,NA,NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"882","sexlineatus (u)","CAS 229014","DGM 640","velox",NA,NA,"Colorado","Anasazi Special Recreation Management Area, along Rd G, 12.5 mi W of Hwy 160, McElmo Creek","37.341500000000003","-108.81766666670001","1658 m","F","Adult",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"883","sexlineatus (u)","CAS 229015","DGM 641","velox",NA,NA,"Colorado","Anasazi Special Recreation Management Area, along Rd G, 12.5 mi W of Hwy 160, McElmo Creek","37.341500000000003","-108.81766666670001","1658 m","F","Adult",NA,"RTAB2018A","HiSeq 4000","AJB",NA
+"884","sexlineatus (u)",NA,"RCT 962","velox",NA,NA,"Arizona","vicinity of Flagstaff","35.267060000000001","-111.3801",NA,NA,NA,NA,"RTAB011","NovaSeq",NA,NA
+"885",NA,"UTEP17662",NA,"velox",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"886",NA,"UTEP18336",NA,"velox",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Novaseq 6000",NA,NA
+"887","deppii",NA,"ANMO 887",NA,NA,NA,"Oaxaca","Aprox 3 km por carretera hacia Pastoría desde la desviación de la carretera 200 Pinotepa Nacional-Puerto Escondido (desviación @ aprox km 77 de esta carretera)","16.024483333333333","-97.583699999999993",NA,NA,NA,"UH6","RTAB004","HiSeq 2500","AJB","This sample was orginally labeled as guttatus, but the RAD data suggests it is a deppii."
+"888","deppii",NA,"ANMO 922",NA,NA,NA,"Chiapas","Aprox km 194.5 de la carretera Arriaga-Tapanatepec, o aprox 13 km por carretera de Arriaga hacia Tapanatepec","16.224399999999999","-94.0124",NA,NA,NA,"UH3","RTAB004","HiSeq 2500","AJB","RAD data suggests this is actually guttatus flavilineatus even though it was originally labeled deppii deppii"
+"889","sexlineatus","OMNH 43108","OCGR 6244",NA,NA,NA,"Arizona","462 ft southeast of Muleshoe Ranch Preserve Headquarters","32.201659999999997","-110.14255",NA,NA,NA,NA,"RTAB2018A","HiSeq 4000","AJB","This sample is weird it seems to move around in the tree, either near burti or in the inornata/sexlineata group"
+"890","sexlineatus","LACM 130441","TC 141",NA,NA,NA,"Guerrero","1.2 mi. (by Hwy 95) S jct. With rd to Mezcala","17.91","-99.59",NA,"Male",NA,NA,"RTAB2018A","HiSeq 4000","AJB","This sample is weird it seems to move around in the tree, either near burti or in the inornata/sexlineata group"
+"891","deppii",NA,"UOGV 1091",NA,NA,NA,"Oaxaca","Km. 75 Carr. Mitla-San Pedro Totolapan","16.704999999999998","-96.328194444444435","1164",NA,NA,"pend","RTAB2018A","HiSeq 4000","AJB","This sample was originally labeled as sackii, but RAD data suggest it is a deppii"
+"892","tigris",NA,"UOGV 2566",NA,NA,NA,"Sonora","Sierra del Aguaje, Cañon del Nacapule","28.01567","-111.04944999999999","121","Macho",NA,NA,"RTAB2018A","HiSeq 4000","AJB","This sample was originally labeled as burti, but appears to be tigris based on the RAD data"
