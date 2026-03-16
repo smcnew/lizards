@@ -56,6 +56,8 @@ samples <- left_join(samples, sexual_system)
 # Remember that rbinom will flip a coin as many times as we want, with probability p.
 # We vary P according to our pre-determined difference between sexual and asexual types.
 
+
+
 samples$pos <- rbinom(nrow(samples), 1, samples$prevalence)
 
 aggregate (pos ~ reproduction, samples, mean) # Across samples we get a difference in groups
@@ -140,12 +142,29 @@ fit2 <- brm(
   iter = 4000
 )
 summary(fit2)
+
+boot::inv.logit(-1.92)
+boot::inv.logit(-0.19)
+summary(fit)
+
+# unisexuals????
+boot::inv.logit(0.57)
+boot::inv.logit(1.55)
+
+boot::inv.logit(-1.92 + 0.57)
+boot::inv.logit(-0.19 + 1.55)
+
+
 # Suggests that reproduction has (basically) a "significant effect" i.e estimate
 # of reproduction mode is positive and CI does not overlap 0.
 #
 # Both ploidy and date do not have significant effects (in this pretend data)
 
 
+# example for in-text scenario:
+#
+# "Unisexual species had a significantly higher probability of infection (Table 1;
+#  model estimate prevalence of sexuals = 0.27; unisexuals = 0.48)
 
 # Species richness  -------------------------------------------------------
 # Let's also simulate some data so we could analyze species richness if we wanted
@@ -189,4 +208,17 @@ glm(haplotype ~ reproduction + extractions, family = "quasipoisson", data = sexu
 
 
 
+
+# example thing -----------------------------------------------------------
+
+phylo <- ape::read.nexus("https://paul-buerkner.github.io/data/phylo.nex")
+data_simple <- read.table(
+  "https://paul-buerkner.github.io/data/data_simple.txt",
+  header = TRUE
+)
+
+plot(phylo)
+head(data_simple)
+
+A <- ape::vcv.phylo(phylo)
 
