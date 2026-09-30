@@ -1,46 +1,57 @@
 # Make a map
-install.packages("rnaturalearth")
+install.packages("ggspatial")
 
 library(sf)
 library(rnaturalearth)
 library(ggplot2)
+library(ggspatial)
 library(dplyr)
 
 
 
 # read in data ------------------------------------------------------------
 
-locdata <- read.csv("local_dat.csv")
+screened_samps2 <- read.csv("data_analysis/combined_lizard_data.csv") %>%
+  rename(Latitude = latitude,
+         Longitude = longitude,
+         Species = species,
+         Reproduction = reproduction)
 
 
-
+summary(screened_samps2$Longitude) # 80 samples without locality information
+as.Date(screened_samps2$date, "%m/%d/%y") %>% min(na.rm=T)
 # map ---------------------------------------------------------------------
 
 # find reasonable bound box
-fivenum(locdata$Latitude) # min = 10.55, max = 39.79 (y values)
-fivenum(locdata$Longitude) # min = -117.33, max -82
+fivenum(screened_samps2$Latitude) # min = 10.55, max = 39.79 (y values)
+fivenum(screened_samps2$Longitude) # min = -117.33, max -82
 
 
 
 world <- ne_countries(returnclass = "sf")
-ggplot(world) +
-  geom_sf(fill = "gray90", color = "gray50") +
-  coord_sf(
-    xlim = c(-120, -82),
-    ylim = c(11, 41),
-    expand = FALSE
-  ) +
-  theme_minimal()
+states <- ne_states(returnclass = "sf")
 
-
+pdf("output_plots/map.pdf")
 ggplot(world) +
-  geom_sf(fill = "gray90", color = "gray50") +
-  geom_point(data = locdata,
-             aes(x = Longitude, y = Latitude, color = Species),
+  geom_sf(data = states, fill = "grey90", color = "grey50") +
+  geom_point(data = screened_samps2,
+             aes(x = Longitude, y = Latitude, color = Species, shape = Reproduction),
              size = 3) +
   coord_sf(
     xlim = c(-120, -79),
-    ylim = c(11, 42),
+    ylim = c(14, 42),
     expand = FALSE
   ) +
-  theme_minimal()
+  theme_minimal() +
+  theme(
+    legend.text = element_text(face = "italic"),
+    axis.text = element_text(size = 13),
+    axis.title = element_text(size = 14)) +
+guides(
+  color = guide_legend(order = 1),
+  shape = guide_legend(order = 2)
+) +
+  annotation_scale(location = "bl") +
+  annotation_north_arrow(location = "tr")
+dev.off()
+

@@ -222,3 +222,6 @@ head(data_simple)
 
 A <- ape::vcv.phylo(phylo)
 
+
+
+head(samples)
