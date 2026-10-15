@@ -1,0 +1,2 @@
+Sequence_ID	organism	specimen_voucher	collection_date	geo_loc_name	lat_lon	host
+CAS229014_Haemoproteidae	Haemoproteidae	CAS229014	6/9/01	Montezuma County:Colorado:United States	37.3415 -108.8176667	Aspidoscelis velox

@@ -360,3 +360,14 @@ McNew_WhiptailExtractions_DataSheetInfo_compiled_test %>%
 write_excel_csv(McNew_WhiptailExtractions_DataSheetInfo_compiled_test, "McNew_WhiptailExtractions_DataSheetInfo_compiled.csv")
 
 
+# Update locality info with AB's additional data
+locdata <- read.csv("data_analysis/local_dat.csv")  %>%
+  rename_with(tolower) %>%
+  select(specimen.number, species, latitude, longitude, date, county, state, country) %>%
+  mutate(date = as.Date(date, "%m/%d/%y"))
+
+updated_locals <- read.csv("data_analysis/combined_lizard_data_AJB.csv")
+head(updated_locals)
+
+updated_locals %>%
+  filter(is.na(suppressWarnings(as.numeric(latitude))))

@@ -1,0 +1,16 @@
+Sequence_ID	organism	specimen_voucher	collection_date	geo_loc_name	lat_lon	host
+AJB192_Eimeriidae	Eimeriidae sp.	AJB192	16-Jul-24	Campeche:Mexico	18.52994 -90.758607	Aspidoscelis angusticeps
+ANMO2547_Proteromonadidae	Proteromonas sp.	ANMO2547	8-Jul-11	Carmen:Campeche:Mexico	18.67213889 -92.16261111	Aspidoscelis deppii
+ANMO4922_Eimeriidae	Eimeriidae sp.	ANMO4922	23-Jul-21	Ocampo:Coahuila:Mexico	27.4425 -102.3645	Aspidoscelis arizonae
+ANMO4944_Eimeriidae	Eimeriidae sp.	ANMO4944	26-Jul-21	Camargo:Chihuahua:Mexico	27.72489 -104.90473	Aspidoscelis marmoratus
+ANMO886_Proteromonadidae	Proteromonas sp.	ANMO886	7-Mar-04	Tututepec:Oaxaca:Mexico	16.02448333 -97.5837	Aspidoscelis guttatus
+APG297_Sarcocystidae	Sarcocystidae sp.	APG297	18-Jul-08	La Cruz:Chihuahua:Mexico	27.88388 -105.22798	Aspidoscelis arizonae
+E38_Proteromonadidae	Proteromonas sp.	E38	18-Jun-21	Ward County:Texas:United States	31.63753 -102.8284	Aspidoscelis marmoratus
+LACMTC567_Sarcocystidae	Sarcocystidae sp.	LACMTC567	12-Jul-83	Grant County:New Mexico:United States		Aspidoscelis sonorae
+LNG429_Hepatozoidae	Hepatozoon sp.	LNG429	20-Dec-18	Villaflores:Chiapas:Mexico	16.25877 -93.2641	Aspidoscelis deppii
+MSB98711_Proteromonadidae	Proteromonas sp.	MSB:herp:98711	6-Aug-17	Bernalillo County:New Mexico:United States	35.03927 -106.66719	Aspidoscelis exsanguis
+MSB98731_Proteromonadidae	Proteromonas sp.	MSB:herp:98731	25-Jun-17	Bernalillo County:New Mexico:United States	35.03601 -106.66921	Aspidoscelis exsanguis
+MSB98748_Sarcocystidae	Sarcocystidae sp.	MSB:herp:98748	14-Jul-17	Socorro County:New Mexico:United States	34.14574 -106.9668	Aspidoscelis tesselatus
+MVZ204070_Eimeriidae	Eimeriidae sp.	MVZ:herp:204070	2-Jul-86	Carrillo:Costa Rica	10.55 -85.73333	Aspidoscelis deppii
+OCGR7510_Proteromonadidae	Proteromonas sp.	OCGR7510	30-Jun-05	Cochise County:Arizona:United States	32.23703 -109.39205	Aspidoscelis velox
+UGOV228_Hepatozoidae	Hepatozoon sp.	UGOV228	5-May-04	Barra de Tecolutla:Veracruz:Mexico	20.45925 -96.98713889	Aspidoscelis guttatus

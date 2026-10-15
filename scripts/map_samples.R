@@ -1,5 +1,4 @@
 # Make a map
-install.packages("ggspatial")
 
 library(sf)
 library(rnaturalearth)
@@ -17,15 +16,16 @@ screened_samps2 <- read.csv("data_analysis/combined_lizard_data.csv") %>%
          Species = species,
          Reproduction = reproduction)
 
-
-summary(screened_samps2$Longitude) # 80 samples without locality information
-as.Date(screened_samps2$date, "%m/%d/%y") %>% min(na.rm=T)
+head(screened_samps2)
+summary(screened_samps2$Longitude) # 82 samples without locality information
+as.Date(screened_samps2$date, "%Y-%m-%d") %>% min(na.rm=T)
 # map ---------------------------------------------------------------------
 
 # find reasonable bound box
 fivenum(screened_samps2$Latitude) # min = 10.55, max = 39.79 (y values)
 fivenum(screened_samps2$Longitude) # min = -117.33, max -82
 
+screened_samps2 <- screened_samps2 %>% filter(Species != "speciesG") %>% droplevels()
 
 
 world <- ne_countries(returnclass = "sf")

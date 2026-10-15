@@ -21,7 +21,6 @@ liz <- read.csv("data_analysis/DugganLizardFullDat2.csv") %>%
 
 # Read in the csv listing the sexual system for each species and some other covars
 sexual_system <- read.csv("data_analysis/sexual_system_info.csv") %>%
-  select(-X) %>%
   rename_with(tolower)
 
 # Read in the relatedness matrix. Note that each species is exactly related to itself (1.00)
@@ -42,18 +41,19 @@ locdata <- read.csv("data_analysis/local_dat.csv")  %>%
 liz <- left_join(liz, sexual_system)
 
 
-# For now just keep species we have relatedness info for
-liz <- liz %>%
-  filter(species %in% rownames(related))
-
 table(liz$reproduction) # sample size for each reproduction type.
 
 # Join with locality data
 liz <- left_join(liz, locdata) %>% distinct(specimen.number, .keep_all = TRUE)
 
-
 # Write out cleaned data for map making
 write.csv(liz, "data_analysis/combined_lizard_data.csv", row.names = FALSE)
+
+# Analyisis ---------------------------------------------------------------
+
+
+# Samples per species
+table(liz$species)
 
 # Summary of screening methods
 liz %>% select(contains("checked")) %>%
@@ -62,7 +62,8 @@ liz %>% select(contains("checked")) %>%
 # summary of samples checked by nanodrop
 fivenum(liz$dna.concentration..ng.ul., na.rm =T)
 nrow(liz) - sum(is.na(liz$dna.concentration..ng.ul.))
-
+fivenum(liz$x260.230.ratio, na.rm = T)
+fivenum(liz$x260.280.ratio, na.rm = T)
 # Summary of different screening methods
 table(liz$positive_37604292)
 table(liz$pos_hepfr_gel)
@@ -191,3 +192,8 @@ boot::inv.logit(1.55)
 boot::inv.logit(-1.92 + 0.57)
 boot::inv.logit(-0.19 + 1.55)
 
+
+
+# relationship with date?
+liz %>%
+  filter(actualparasite==1)
